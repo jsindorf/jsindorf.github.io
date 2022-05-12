@@ -1,0 +1,6 @@
+Other files not pictured:
+Final report
+software design
+acceptance test procedure/results
+operations manual hardware
+operations manual gui
