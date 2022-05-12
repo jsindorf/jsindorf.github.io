@@ -108,7 +108,7 @@ author:
   location         : #"Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "jsindorf@asu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jsindorf@asu.edu"
     - label: "Website"
