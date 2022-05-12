@@ -2,11 +2,11 @@
 main:
   - title: "About Me"
     url: https://jsindorf.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Research"
+    url: https://jsindorf.github.io/_pages/research/research.html
+  - title: "Grad Projects"
+    url: https://jsindorf.github.io/_pages/graduate/grad_projects.html
+  - title: "Undergrad Projects"
+    url: https://jsindorf.github.io/_pages/undergrad/undergrad_proj.html
   # - title: "Sitemap"
   #   url: /sitemap/
