@@ -31,6 +31,16 @@ feature_row:
   - image_path: /sunset.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+ feature_row2:
+  - image_path: /sunset.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+ feature_row3:
+  - image_path: /sunset.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
 ---
 
 {% include feature_row id="intro" type="center" %}
