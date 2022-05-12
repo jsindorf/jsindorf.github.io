@@ -15,7 +15,7 @@ header:
 excerpt: "Graduate school projects and descriptions"
 intro: 
   - excerpt: "some info here" 
-feature_row2:
+feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     title: "BMI598 title"
@@ -23,7 +23,6 @@ feature_row2:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row3:
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
     title: "ame598 title"
@@ -31,7 +30,6 @@ feature_row3:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row4:
   - image_path: /_pages/graduate/egr608/ppgvpgapg.PNG
     alt: "placeholder image 2"
     title: "egr608 title"
@@ -39,7 +37,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row5:
+feature_row2:
   - image_path: /_pages/graduate/EEE598RL/ur5.PNG
     alt: "placeholder image 2"
     title: "EEE598 RL title"
@@ -47,7 +45,6 @@ feature_row5:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row6:
   - image_path: /_pages/graduate/EEE598LB/tprb.PNG
     alt: "placeholder image 2"
     title: "EEE598 LB title"
@@ -55,7 +52,6 @@ feature_row6:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row7:
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
     title: "EGR557 title"
@@ -63,7 +59,7 @@ feature_row7:
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
-feature_row8:
+feature_row3:
   - image_path: /_pages/graduate/MAE598/bioinsp.PNG
     alt: "placeholder image 2"
     title: "MAE598 title"
@@ -75,16 +71,8 @@ feature_row8:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row2"%}
 
-{% include feature_row id="feature_row4" type="left" %}
-
-{% include feature_row id="feature_row5" type="right" %}
-
-{% include feature_row id="feature_row6" type="left" %}
-
-{% include feature_row id="feature_row7" type="right" %}
-
-{% include feature_row id="feature_row8" type="left" %}
+{% include feature_row id="feature_row3"%}
