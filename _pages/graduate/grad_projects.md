@@ -75,10 +75,16 @@ feature_row8:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="right" %}
+
+{% include feature_row id="feature_row8" type="left" %}
