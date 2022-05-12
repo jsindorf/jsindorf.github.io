@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: splash
-permalink: https://jsindorf.github.io/_pages/research/research.html
+permalink: /research/
 
 date: 2016-03-23T11:48:41-04:00
 header:
