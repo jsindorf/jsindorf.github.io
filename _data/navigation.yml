@@ -6,7 +6,7 @@ main:
     #url: https://jsindorf.github.io/_pages/research/research.html
     url: /research/ 
   - title: "Grad Projects"
-    url: https://jsindorf.github.io/_pages/graduate/grad_projects.html
+    url: /grad_projects/
   - title: "Undergrad Projects"
     url: https://jsindorf.github.io/_pages/undergrad/undergrad_proj.html
   # - title: "Sitemap"
