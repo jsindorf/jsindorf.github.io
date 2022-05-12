@@ -8,10 +8,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /sunset.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "none"
+  #actions:
+  #  - label: "Download"
+  #    url: "https://github.com/mmistakes/minimal-mistakes/"
+  #caption: "none"
 excerpt: "Page describing research and teaching assistant experience"
 intro: 
   - excerpt: "some intro here" 
