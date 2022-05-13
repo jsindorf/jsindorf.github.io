@@ -18,8 +18,11 @@ intro:
   - excerpt: "some info here"   
    
 ---
+
 ## About
 This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer.
+
+[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Keywords
 insert list of keywords here
