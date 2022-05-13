@@ -27,9 +27,9 @@ insert list of keywords here
 ## Description
 insert long description here
 
-## Video Attempt
+## Video Demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdMJLKb7cA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## PDF attempt
+## Descriptive Slideshow
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 
