@@ -12,12 +12,21 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "(BMI598 Spring 2022) This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer."
+excerpt: "(BMI598 Spring 2022)"
 
 intro: 
   - excerpt: "some info here"   
    
 ---
+## About
+This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer.
+
+## Keywords
+insert list of keywords here
+
+## Description
+insert long description here
+
 ## Video Attempt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdMJLKb7cA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
