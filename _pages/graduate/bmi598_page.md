@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Projects"
+title: "BMI test page"
 layout: single
 #permalink: /bmi598_page/
 
@@ -12,7 +12,7 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "Undergraduate school projects and descriptions"
+excerpt: "test project page"
 intro: 
   - excerpt: "some info here"     
 ---
