@@ -1,6 +1,6 @@
 ---
 title: "Graduate Projects"
-layout: single
+layout: splash
 author_profile: false
 
 permalink: /grad_projects/
