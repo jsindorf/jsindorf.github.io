@@ -1,6 +1,7 @@
 ---
 title: "Graduate Projects"
-layout: search
+layout: single
+author_profile: false
 
 permalink: /grad_projects/
 toc: true
