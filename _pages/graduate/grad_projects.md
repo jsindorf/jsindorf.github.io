@@ -82,13 +82,7 @@ feature_row7:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-- [linkto-p1](/grad_projects/#project-1) 
-- [linkto-p2](/grad_projects/#project-2) 
-- [linkto-p3](/grad_projects/#project-3) 
-- [linkto-p4](/grad_projects/#project-4) 
-- [linkto-p5](/grad_projects/#project-5) 
-- [linkto-p6](/grad_projects/#project-6) 
-- [linkto-p7](/grad_projects/#project-7)
+|[linkto-p1](/grad_projects/#project-1)|[linkto-p2](/grad_projects/#project-2)|[linkto-p3](/grad_projects/#project-3)|[linkto-p4](/grad_projects/#project-4)|[linkto-p5](/grad_projects/#project-5)|[linkto-p6](/grad_projects/#project-6)|[linkto-p7](/grad_projects/#project-7)|
 
 
 ## Project 1
