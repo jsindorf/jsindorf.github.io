@@ -16,7 +16,7 @@ excerpt: "test project page"
 intro: 
   - excerpt: "some info here"   
 pdf:
-    background-color:white;
+    #background-color:white;
     width: min(80vw, 800px);
     height: min(103.5vw, 1035px);
     margin: min(8vw, 80px) 0vw;
