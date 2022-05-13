@@ -1,6 +1,6 @@
 ---
 title: "Graduate Projects"
-layout: splash
+layout: search
 
 permalink: /grad_projects/
 toc: true
