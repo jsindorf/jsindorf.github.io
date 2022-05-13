@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
     title: "ame598 title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -38,7 +38,7 @@ feature_row3:
   - image_path: /_pages/graduate/egr608/ppgvpgapg.PNG
     alt: "placeholder image 2"
     title: "egr608 title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -47,7 +47,7 @@ feature_row4:
   - image_path: /_pages/graduate/EEE598RL/ur5.PNG
     alt: "placeholder image 2"
     title: "EEE598 RL title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -55,7 +55,7 @@ feature_row5:
   - image_path: /_pages/graduate/EEE598LB/tprb.PNG
     alt: "placeholder image 2"
     title: "EEE598 LB title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -63,7 +63,7 @@ feature_row6:
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
     title: "EGR557 title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -72,7 +72,7 @@ feature_row7:
   - image_path: /_pages/graduate/MAE598/bioinsp.PNG
     alt: "placeholder image 2"
     title: "MAE598 title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
