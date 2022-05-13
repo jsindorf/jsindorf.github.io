@@ -1,6 +1,7 @@
 ---
 title: "Graduate Projects"
 layout: single
+classes: wide
 permalink: /grad_projects/
 toc: true
 #date: 2016-03-23T11:48:41-04:00
