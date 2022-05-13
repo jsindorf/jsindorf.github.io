@@ -36,3 +36,4 @@ insert long description here
 ## Descriptive Slideshow
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+## [Back to Grad Projects](/grad_projects/)
