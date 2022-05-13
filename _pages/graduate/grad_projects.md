@@ -79,11 +79,11 @@ feature_row7:
     
 ---
 ## Table of Contents
-# [Heading Link](project-1)
+## [Project 5](#project-5)
 
 
 
-## [Project 1]
+## Project 5
 {% include feature_row id="intro" type="center" %}
 ## Project 2
 {% include feature_row id="feature_row" type="left" %}
@@ -91,7 +91,7 @@ feature_row7:
 {% include feature_row id="feature_row2" type="right" %}
 ## Project 4
 {% include feature_row id="feature_row3" type="left" %}
-## Project 5
+## [Project 5]
 {% include feature_row id="feature_row4" type="right" %}
 ## Project 6
 {% include feature_row id="feature_row5" type="left" %}
