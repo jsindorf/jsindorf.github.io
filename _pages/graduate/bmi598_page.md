@@ -1,5 +1,5 @@
 ---
-title: "BMI test page"
+title: "Embedded Heart Rate Estimation Device Prototype"
 layout: single
 permalink: /bmi598_page/
 
@@ -12,7 +12,8 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "test project page"
+excerpt: "(BMI598 Spring 2022) This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer."
+
 intro: 
   - excerpt: "some info here"   
    
