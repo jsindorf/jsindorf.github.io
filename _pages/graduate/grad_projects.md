@@ -20,7 +20,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "BMI598 title"
     excerpt: 'description and link'
-    url: "#test-link"
+    url: "/bmi598/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
