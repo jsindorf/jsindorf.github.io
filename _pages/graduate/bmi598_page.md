@@ -23,5 +23,5 @@ pdf:
     image_path: /_pages/graduate/bmi598/BMI598_F3_sindorf.pdf
    
 ---
-
-{% include gallery id="pdf" caption="pdf attempt" %}
+## PDF attempt
+<object data="/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="min(80vw, 800px)" height="min(103.5vw, 1035px)" type='application/pdf'></object>
