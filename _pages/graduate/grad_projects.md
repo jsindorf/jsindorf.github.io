@@ -78,7 +78,12 @@ feature_row7:
     btn_class: "btn--primary"
     
 ---
-## Project 1
+## Table of Contents
+# [Heading Link](project-1)
+
+
+
+## [Project 1]
 {% include feature_row id="intro" type="center" %}
 ## Project 2
 {% include feature_row id="feature_row" type="left" %}
