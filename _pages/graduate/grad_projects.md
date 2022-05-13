@@ -22,7 +22,7 @@ feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     #title: "BMI598 title"
-    excerpt: 'description and link'
+    excerpt: 'description and link [Return to top](/grad_projects/#introduction) '
     url: /bmi598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -78,9 +78,9 @@ feature_row7:
     btn_class: "btn--primary"
     
 ---
-#Introduction
+## Introduction
 {% include feature_row id="intro" type="center" %}
-<p style="text-align:center">
+
 ## Table of Contents
 - [linkto-p1](/grad_projects/#project-1) 
 - [linkto-p2](/grad_projects/#project-2) 
@@ -89,7 +89,7 @@ feature_row7:
 - [linkto-p5](/grad_projects/#project-5) 
 - [linkto-p6](/grad_projects/#project-6) 
 - [linkto-p7](/grad_projects/#project-7)
-  </p>
+
 
 ## Project 1
 {% include feature_row id="feature_row" type="left" %}
