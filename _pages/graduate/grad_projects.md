@@ -75,19 +75,19 @@ feature_row7:
     btn_class: "btn--primary"
     
 ---
-
+## Project 1
 {% include feature_row id="intro" type="center" %}
-
+## Project 2
 {% include feature_row id="feature_row" type="left" %}
-
+## Project 3
 {% include feature_row id="feature_row2" type="right" %}
-
+## Project 4
 {% include feature_row id="feature_row3" type="left" %}
-
+## Project 5
 {% include feature_row id="feature_row4" type="right" %}
-
+## Project 6
 {% include feature_row id="feature_row5" type="left" %}
-
+## Project 7
 {% include feature_row id="feature_row6" type="right" %}
-
+## Project 8
 {% include feature_row id="feature_row7" type="left" %}
