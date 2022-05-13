@@ -20,7 +20,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "BMI598 title"
     excerpt: 'description and link'
-    url: /_pages/graduate/bmi598_page.md
+    url: "/bmi598_page/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
