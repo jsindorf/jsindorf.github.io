@@ -8,6 +8,6 @@ main:
   - title: "Grad Projects"
     url: /grad_projects/
   - title: "Undergrad Projects"
-    url: https://jsindorf.github.io/_pages/undergrad/undergrad_proj.html
+    url: /undergrad_projects/
   # - title: "Sitemap"
   #   url: /sitemap/
