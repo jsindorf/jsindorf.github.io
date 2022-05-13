@@ -15,14 +15,8 @@ header:
 excerpt: "test project page"
 intro: 
   - excerpt: "some info here"   
-pdf:
-    #background-color:white;
-    width: min(80vw, 800px);
-    height: min(103.5vw, 1035px);
-    margin: min(8vw, 80px) 0vw;
-    image_path: /_pages/graduate/bmi598/BMI598_F3_sindorf.pdf
    
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="min(80vw, 800px)" height="min(103.5vw, 1035px)" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 ## PDF attempt
