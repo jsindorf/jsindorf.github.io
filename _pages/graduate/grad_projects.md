@@ -1,9 +1,10 @@
 ---
 title: "Graduate Projects"
-layout: single
-classes: wide
+layout: splash
+
 permalink: /grad_projects/
 toc: true
+toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
