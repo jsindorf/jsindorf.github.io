@@ -113,7 +113,7 @@ author:
       url: "mailto:jsindorf@asu.edu"
     - label: "623-251-1340"
       icon: "fas fa-fw fa-phone-square"
-      # url: "https://your-website.com"
+      url: "https://jsindorf.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
