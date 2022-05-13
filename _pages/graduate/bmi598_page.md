@@ -23,5 +23,6 @@ pdf:
     image_path: /_pages/graduate/bmi598/BMI598_F3_sindorf.pdf
    
 ---
-## PDF attempt
+
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="min(80vw, 800px)" height="min(103.5vw, 1035px)" type='application/pdf'></object>
+## PDF attempt
