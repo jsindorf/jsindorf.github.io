@@ -4,7 +4,7 @@ layout: single
 permalink: /bmi598_page/
 author_profile: true
 toc: true
-toc_sticky: false
+toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#333"
