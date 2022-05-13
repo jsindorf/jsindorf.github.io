@@ -19,7 +19,7 @@ intro:
 feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
-    title: "BMI598 title"
+    #title: "BMI598 title"
     excerpt: 'description and link'
     url: /bmi598_page/
     btn_label: "Explore"
