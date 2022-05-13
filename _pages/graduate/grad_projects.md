@@ -78,24 +78,23 @@ feature_row7:
     btn_class: "btn--primary"
     
 ---
+#Introduction
+{% include feature_row id="intro" type="center" %}
+
 ## Table of Contents
-## [linkto-p5](/grad_projects/#project-5)
-
-
+#### [linkto-p1](/grad_projects/#project-1) #### [linkto-p2](/grad_projects/#project-2) #### [linkto-p3](/grad_projects/#project-3) #### [linkto-p4](/grad_projects/#project-4) #### [linkto-p5](/grad_projects/#project-5) #### [linkto-p6](/grad_projects/#project-6) #### [linkto-p7](/grad_projects/#project-7)
 
 ## Project 1
-{% include feature_row id="intro" type="center" %}
-## Project 2
 {% include feature_row id="feature_row" type="left" %}
-## Project 3
+## Project 2
 {% include feature_row id="feature_row2" type="right" %}
-## Project 4
+## Project 3
 {% include feature_row id="feature_row3" type="left" %}
-## Project 5
+## Project 4
 {% include feature_row id="feature_row4" type="right" %}
-## Project 6
+## Project 5
 {% include feature_row id="feature_row5" type="left" %}
-## Project 7
+## Project 6
 {% include feature_row id="feature_row6" type="right" %}
-## Project 8
+## Project 7
 {% include feature_row id="feature_row7" type="left" %}
