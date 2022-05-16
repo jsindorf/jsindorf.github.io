@@ -26,6 +26,9 @@ feature_row:
     url: /bmi598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
+    url: [Return to top](/grad_projects/#introduction)
+    btn_label: "Return to top"
+    btn_class: "btn--primary"
 feature_row2:    
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
