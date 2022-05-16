@@ -31,7 +31,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "ame598 title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /ame598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row3:    
@@ -39,7 +39,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "egr608 title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /egr608_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
     
@@ -48,7 +48,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "EEE598 RL title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /eee598rl_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row5:   
@@ -56,7 +56,7 @@ feature_row5:
     alt: "placeholder image 2"
     title: "EEE598 LB title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /eee598lb_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row6:  
@@ -64,7 +64,7 @@ feature_row6:
     alt: "placeholder image 2"
     title: "EGR557 title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /egr557_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
     
@@ -73,7 +73,7 @@ feature_row7:
     alt: "placeholder image 2"
     title: "MAE598 title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
-    url: "#test-link"
+    url: /mae598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
     
