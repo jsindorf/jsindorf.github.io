@@ -1,7 +1,7 @@
 ---
 title: "Design of a Soft, Passive Wearable Ankle Device"
 layout: single
-permalink: /eee598lb_page/
+permalink: /mae598_page/
 author_profile: true
 toc: true
 toc_sticky: true
