@@ -21,7 +21,7 @@ intro:
 feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
-    #title: "BMI598 title"
+    #title: "Embedded Deep Learning Heart Rate Estimation Device"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction) '
     url: /bmi598_page/
     btn_label: "Explore"
@@ -82,10 +82,10 @@ feature_row7:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-| [linkto-p1](/grad_projects/#project-1) | [linkto-p2](/grad_projects/#project-2) | [linkto-p3](/grad_projects/#project-3) | [linkto-p4](/grad_projects/#project-4) |[linkto-p5](/grad_projects/#project-5) | [linkto-p6](/grad_projects/#project-6) | [linkto-p7](/grad_projects/#project-7) |
+| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [linkto-p2](/grad_projects/#project-2) | [linkto-p3](/grad_projects/#project-3) | [linkto-p4](/grad_projects/#project-4) |[linkto-p5](/grad_projects/#project-5) | [linkto-p6](/grad_projects/#project-6) | [linkto-p7](/grad_projects/#project-7) |
 
 
-## Project 1
+## Embedded Deep Learning Heart Rate Estimation Device
 {% include feature_row id="feature_row" type="left" %}
 ## Project 2
 {% include feature_row id="feature_row2" type="right" %}
