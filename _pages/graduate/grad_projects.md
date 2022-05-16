@@ -32,8 +32,8 @@ feature_row:
 feature_row2:    
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
-    title: "Anatomy Inspired Animatronic Head"
-    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations. 
+    #title: "Anatomy Inspired Animatronic Head"
+    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations. <br>
     Course: AME598: Expressive Robotics  <br><br>
     Keywords: ESP32, Arduino/C/C++, Solidworks, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -88,12 +88,12 @@ feature_row7:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [linkto-p2](/grad_projects/#project-2) | [linkto-p3](/grad_projects/#project-3) | [linkto-p4](/grad_projects/#project-4) |[linkto-p5](/grad_projects/#project-5) | [linkto-p6](/grad_projects/#project-6) | [linkto-p7](/grad_projects/#project-7) |
+| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head) | [linkto-p3](/grad_projects/#project-3) | [linkto-p4](/grad_projects/#project-4) |[linkto-p5](/grad_projects/#project-5) | [linkto-p6](/grad_projects/#project-6) | [linkto-p7](/grad_projects/#project-7) |
 
 
 ## Embedded Deep Learning Heart Rate Estimation Device
 {% include feature_row id="feature_row" type="left" %}
-## Project 2
+## Anatomy Inspired Animatronic Head
 {% include feature_row id="feature_row2" type="right" %}
 ## Project 3
 {% include feature_row id="feature_row3" type="left" %}
