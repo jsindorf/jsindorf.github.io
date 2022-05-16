@@ -1,5 +1,5 @@
 ---
-title: "Embedded Heart Rate Estimation Device Prototype"
+title: "Embedded Deep Learning Heart Rate Estimation Device Prototype"
 layout: single
 permalink: /bmi598_page/
 author_profile: true
