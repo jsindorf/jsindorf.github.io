@@ -100,14 +100,14 @@ feature_row7:
 ## Embedded Deep Learning Heart Rate Estimation Device 
 {% include feature_row id="feature_row" type="left" %}
 ## Anatomy Inspired Animatronic Head 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
 ## Data Driven Dynamic Discovery of the PPG
 {% include feature_row id="feature_row3" type="left" %}
 ## Reinforcement Learning in Real World Robotics Task Training with UR5
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row4" type="left" %}
 ## PBVI for Motion Artifact and Sensor System Energy Savings
 {% include feature_row id="feature_row5" type="left" %}
 ## Single Motor Foldable Paper Leg Robot
-{% include feature_row id="feature_row6" type="right" %}
+{% include feature_row id="feature_row6" type="left" %}
 ## Design of a Soft Passive Wearable Ankle Device
 {% include feature_row id="feature_row7" type="left" %}
