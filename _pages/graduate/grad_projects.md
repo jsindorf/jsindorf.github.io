@@ -44,7 +44,7 @@ feature_row3:
   - image_path: /_pages/graduate/egr608/ppgvpgapg.PNG
     alt: "placeholder image 2"
     #title: "egr608 title"
-    excerpt: 'Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. Here this project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal. Specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY).'
+    excerpt: 'Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. Here this project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal. Specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY).
     Course: EGR608: Advanced Simulation  <br><br>
     Keywords: Matlab, Time Series Signals, Data-Driven Discovery, Linear Algebra <br><br>
     [Return to top](/grad_projects/#introduction)'
