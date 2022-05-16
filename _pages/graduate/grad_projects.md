@@ -35,7 +35,7 @@ feature_row2:
     #title: "Anatomy Inspired Animatronic Head"
     excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations. <br>
     Course: AME598: Expressive Robotics  <br><br>
-    Keywords: ESP32, Arduino/C/C++, Solidworks, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
+    Keywords: ESP32, Arduino/C/C++, Solidworks, Kinematics, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /ame598_page/
     btn_label: "Explore"
