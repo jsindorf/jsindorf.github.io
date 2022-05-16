@@ -22,9 +22,9 @@ feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
-    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer.' \
-    'Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device' \
-    '[Return to top](/grad_projects/#introduction)'
+    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
+    Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br>
+    [Return to top](/grad_projects/#introduction)'
     url: /bmi598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
