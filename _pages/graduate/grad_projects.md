@@ -88,7 +88,7 @@ feature_row7:
     
 ---
 ## Introduction
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 
 ## Table of Contents
 [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device)  |  [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head)  <br> 
@@ -97,10 +97,9 @@ feature_row7:
 [Design of a Soft Passive Wearable Ankle Device](/grad_projects/#design-of-a-soft-passive-wearable-ankle-device)  
 
 
-## Embedded Deep Learning Heart Rate Estimation Device
+## Embedded Deep Learning Heart Rate Estimation Device 
 {% include feature_row id="feature_row" type="left" %}
-
-## Anatomy Inspired Animatronic Head { text-align: center; }
+## Anatomy Inspired Animatronic Head <align = "right">
 {% include feature_row id="feature_row2" type="right" %}
 ## Data Driven Dynamic Discovery of the PPG
 {% include feature_row id="feature_row3" type="left" %}
