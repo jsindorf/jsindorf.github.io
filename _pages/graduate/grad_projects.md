@@ -17,13 +17,13 @@ header:
   #caption: "none"
 #excerpt: "Graduate school projects and descriptions"
 intro: 
-  - excerpt: "This page presents links to my graduate course projects. Each project has a short description and an image to provide a quick overview of the project and what it's about as well as a list of some keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. \ Please note, on mobile, some embedded pdfs may be unavailable." 
+  - excerpt: "This page presents links to my graduate course projects. Each project has a short description and an image to provide a quick overview of the project and what it's about as well as a list of some keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
-    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
-    Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br>
+    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br><br>
+    Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /bmi598_page/
     btn_label: "Explore"
