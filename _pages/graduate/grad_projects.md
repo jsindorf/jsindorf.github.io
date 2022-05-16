@@ -88,10 +88,10 @@ feature_row7:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head) | <br> 
-| [Data Driven Dynamic Discovery of the PPG](/grad_projects/#data-driven-dynamic-discovery-of-the-ppg) | [Reinforcement Learning in Real World Robotics Task Training with UR5](/grad_projects/#reinforcement-learning-in-real-world-robotics-task-training-with-ur5) | <br>
-| [PBVI for Motion Artifact and Sensor System Energy Savings](/grad_projects/#pbvi-for-motion-artifact-and-sensor-system-energy-savings) | [Single Motor Foldable Paper Leg Robot](/grad_projects/#single-motor-foldable-paper-leg-robot) | <br>
-| [Design of a Soft Passive Wearable Ankle Device](/grad_projects/#design-of-a-soft-passive-wearable-ankle-device) | 
+[Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device)  |  [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head)  <br> 
+[Data Driven Dynamic Discovery of the PPG](/grad_projects/#data-driven-dynamic-discovery-of-the-ppg)  |  [Reinforcement Learning in Real World Robotics Task Training with UR5](/grad_projects/#reinforcement-learning-in-real-world-robotics-task-training-with-ur5) <br>
+[PBVI for Motion Artifact and Sensor System Energy Savings](/grad_projects/#pbvi-for-motion-artifact-and-sensor-system-energy-savings)  |  [Single Motor Foldable Paper Leg Robot](/grad_projects/#single-motor-foldable-paper-leg-robot)  <br>
+[Design of a Soft Passive Wearable Ankle Device](/grad_projects/#design-of-a-soft-passive-wearable-ankle-device)  
 
 
 ## Embedded Deep Learning Heart Rate Estimation Device
