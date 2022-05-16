@@ -37,6 +37,9 @@ insert long description here
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MOPrrYCnyA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Descriptive Slideshow
-<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/bmi598/BMI598_F3_sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/EEE598RL/Team6_Sindorf_Finalpresentation.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+## Project Write-up
+<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/EEE598RL/Team6_name_PC2.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## [Back to Grad Projects](/grad_projects/)
