@@ -22,7 +22,8 @@ feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
-    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br><br>
+    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
+    Course: BMI598: Embedded Machine Learning  <br><br>
     Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /bmi598_page/
@@ -31,8 +32,11 @@ feature_row:
 feature_row2:    
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
-    title: "ame598 title"
-    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
+    title: "Anatomy Inspired Animatronic Head"
+    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations. 
+    Course: AME598: Expressive Robotics  <br><br>
+    Keywords: ESP32, Arduino/C/C++, Solidworks, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
+    [Return to top](/grad_projects/#introduction)'
     url: /ame598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
