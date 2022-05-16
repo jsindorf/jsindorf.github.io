@@ -99,8 +99,8 @@ feature_row7:
 
 ## Embedded Deep Learning Heart Rate Estimation Device
 {% include feature_row id="feature_row" type="left" %}
-{ text-align: center; }
-## Anatomy Inspired Animatronic Head 
+
+## Anatomy Inspired Animatronic Head { text-align: center; }
 {% include feature_row id="feature_row2" type="right" %}
 ## Data Driven Dynamic Discovery of the PPG
 {% include feature_row id="feature_row3" type="left" %}
