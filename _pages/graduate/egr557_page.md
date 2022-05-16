@@ -1,7 +1,7 @@
 ---
 title: "Single Motor Foldable Paper Leg Robot"
 layout: single
-permalink: /eee598lb_page/
+permalink: /egr557_page/
 author_profile: true
 toc: true
 toc_sticky: true
