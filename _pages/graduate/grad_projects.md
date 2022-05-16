@@ -1,5 +1,5 @@
 ---
-title: "Graduate Projects"
+title: "Graduate Course Projects"
 layout: splash
 author_profile: false
 
@@ -10,14 +10,14 @@ toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /sunset.jpg
+  overlay_image: /cactus.jpg
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "Graduate school projects and descriptions"
+#excerpt: "Graduate school projects and descriptions"
 intro: 
-  - excerpt: "some info here" 
+  - excerpt: "This page presents links to my graduate course projects. Each project has a short description and an image to provide a quick overview of the project and what it's about. The Table of Contents section provides links by title to each project. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents. Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
