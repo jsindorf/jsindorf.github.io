@@ -1,7 +1,7 @@
 ---
 title: "Point Based Value Iteration (PBVI) and Partially Observable Markov Decision Process (POMDP) for Motion Artifact and Sensor System Energy Savings"
 layout: single
-permalink: /eee598lb_pages/
+permalink: /eee598lb_page/
 author_profile: true
 toc: true
 toc_sticky: true
