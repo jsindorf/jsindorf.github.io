@@ -33,7 +33,7 @@ feature_row2:
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
     #title: "Anatomy Inspired Animatronic Head"
-    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations. <br>
+    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations of the controller. <br>
     Course: AME598: Expressive Robotics  <br><br>
     Keywords: ESP32, Arduino/C/C++, Solidworks, Kinematics, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -43,7 +43,7 @@ feature_row2:
 feature_row3:    
   - image_path: /_pages/graduate/egr608/ppgvpgapg.PNG
     alt: "placeholder image 2"
-    title: "egr608 title"
+    #title: "egr608 title"
     excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
     url: /egr608_page/
     btn_label: "Explore"
@@ -88,20 +88,20 @@ feature_row7:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head) | [linkto-p3](/grad_projects/#project-3) | [linkto-p4](/grad_projects/#project-4) |[linkto-p5](/grad_projects/#project-5) | [linkto-p6](/grad_projects/#project-6) | [linkto-p7](/grad_projects/#project-7) |
+| [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) | [Anatomy Inspired Animatronic Head](/grad_projects/#anatomy-inspired-animatronic-head) | [Data Driven Dynamic Discovery of the PPG](/grad_projects/#data-driven-dynamic-discovery-of-the-ppg) | [Reinforcement Learning in Real World Robotics Task Training with UR5](/grad_projects/#reinforcement-learning-in-real-world-robotics-task-training-with-ur5) |[PBVI for Motion Artifact and Sensor System Energy Savings](/grad_projects/#pbvi-for-motion-artifact-and-sensor-system-energy-savings | [Single Motor Foldable Paper Leg Robot](/grad_projects/#single-motor-foldable-paper-leg-robot) | [Design of a Soft, Passive Wearable Ankle Device](/grad_projects/#design-of-a-soft,-passive-wearable-ankle-device) |
 
 
 ## Embedded Deep Learning Heart Rate Estimation Device
 {% include feature_row id="feature_row" type="left" %}
 ## Anatomy Inspired Animatronic Head
 {% include feature_row id="feature_row2" type="right" %}
-## Project 3
+## Data Driven Dynamic Discovery of the PPG
 {% include feature_row id="feature_row3" type="left" %}
-## Project 4
+## Reinforcement Learning in Real World Robotics Task Training with UR5
 {% include feature_row id="feature_row4" type="right" %}
-## Project 5
+## PBVI for Motion Artifact and Sensor System Energy Savings
 {% include feature_row id="feature_row5" type="left" %}
-## Project 6
+## Single Motor Foldable Paper Leg Robot
 {% include feature_row id="feature_row6" type="right" %}
-## Project 7
+## Design of a Soft, Passive Wearable Ankle Device
 {% include feature_row id="feature_row7" type="left" %}
