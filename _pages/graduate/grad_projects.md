@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
     excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
-    Course: BMI598: Embedded Machine Learning  <br><br>
+    Course: BMI598: Embedded Machine Learning (Spring 2022) <br><br>
     Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /bmi598_page/
@@ -34,7 +34,7 @@ feature_row2:
     alt: "placeholder image 2"
     #title: "Anatomy Inspired Animatronic Head"
     excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations of the controller. <br>
-    Course: AME598: Expressive Robotics  <br><br>
+    Course: AME598: Expressive Robotics (Spring 2022) <br><br>
     Keywords: ESP32, Arduino/C/C++, Solidworks, Kinematics, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /ame598_page/
@@ -45,7 +45,7 @@ feature_row3:
     alt: "placeholder image 2"
     #title: "egr608 title"
     excerpt: 'Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. Here this project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal. Specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY). <br>
-    Course: EGR608: Advanced Simulation  <br><br>
+    Course: EGR608: Advanced Simulation (Spring 2022)  <br><br>
     Keywords: Matlab, Time Series Signals, Data-Driven Discovery, Linear Algebra <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /egr608_page/
@@ -55,9 +55,9 @@ feature_row3:
 feature_row4:
   - image_path: /_pages/graduate/EEE598RL/ur5.PNG
     alt: "placeholder image 2"
-    title: "EEE598 RL title"
+    #title: "EEE598 RL title"
     excerpt: 'Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of a RL project revolving around real reaching tasks with a UR5 arm. Overall two methods of RL were applied to the UR5, being trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, succesfully training the UR5 arm to reach specific points in a 2D space optimally.  <br>
-    Course: EEE598: Reinforcement Learning  <br><br>
+    Course: EEE598: Reinforcement Learning (Fall 2021) <br><br>
     Keywords: Reinforcement Learning, Python, UR5, Ubuntu, Virtual Machine, Github, Docker <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /eee598rl_page/
@@ -66,16 +66,22 @@ feature_row4:
 feature_row5:   
   - image_path: /_pages/graduate/EEE598LB/tprb.PNG
     alt: "placeholder image 2"
-    title: "EEE598 LB title"
-    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
+    #title: "EEE598 LB title"
+    excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor  system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe an accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical appraoch and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br>
+    Course: EEE598: Learning Based Sequential Decision Making (Fall 2021)  <br><br>
+    Keywords: Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains <br><br>
+    [Return to top](/grad_projects/#introduction)'
     url: /eee598lb_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row6:  
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
-    title: "EGR557 title"
-    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
+    #title: "EGR557 title"
+    excerpt: 'Foldable robotics are both inexpensive and able to be rapidly prototyped allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final github pages website was made to document the entire process. <br>
+    Course: EGR557: Foldable Robotics (Spring 2021)  <br><br>
+    Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics <br><br>
+    [Return to top](/grad_projects/#introduction)'
     url: /egr557_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -83,8 +89,11 @@ feature_row6:
 feature_row7:
   - image_path: /_pages/graduate/MAE598/bioinsp.PNG
     alt: "placeholder image 2"
-    title: "MAE598 title"
-    excerpt: 'description and link [Return to top](/grad_projects/#introduction)'
+    #title: "MAE598 title"
+    excerpt: 'This project takes inspiration from the muscle's anatomy in the design and testing of a soft passive ankle orthotic. A low cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservior under the ball of the foot, the system can be passivley actuated when stepped on to fill the actuator with air, extending it. Overall the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort.  <br>
+    Course: MAE598: Bioinspired Robotics (Spring 2021)  <br><br>
+    Keywords: Bioinspiration, Wearable Device, Rapid Prototyping <br><br>
+    [Return to top](/grad_projects/#introduction)'
     url: /mae598_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
