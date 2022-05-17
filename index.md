@@ -14,7 +14,7 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "About me, about this website, as well as my resume and cv"
+#excerpt: "About me, about this website, as well as my resume and cv"
 
 ---
 ## About me
