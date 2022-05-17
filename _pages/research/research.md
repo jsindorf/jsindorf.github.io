@@ -14,9 +14,15 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "Descriptions of my graduate research activities and interests."
+excerpt: "Descriptions of my graduate research interests and relevant material."
 
 intro: 
   - excerpt: "some info here"   
    
 ---
+
+## Research Interests
+text
+
+## Teaching Assistant Experience
+text
