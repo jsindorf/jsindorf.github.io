@@ -67,7 +67,7 @@ feature_row5:
   - image_path: /_pages/graduate/EEE598LB/tprb.PNG
     alt: "placeholder image 2"
     #title: "EEE598 LB title"
-    excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor  system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe an accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical appraoch and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br>
+    excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor  system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical appraoch and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br>
     Course: EEE598: Learning Based Sequential Decision Making (Fall 2021)  <br><br>
     Keywords: Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -78,7 +78,7 @@ feature_row6:
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
     #title: "EGR557 title"
-    excerpt: 'Foldable robotics are both inexpensive and able to be rapidly prototyped allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final github pages website was made to document the entire process. <br>
+    excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final github pages website was made to document the entire process. <br>
     Course: EGR557: Foldable Robotics (Spring 2021)  <br><br>
     Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics <br><br>
     [Return to top](/grad_projects/#introduction)'
