@@ -9,8 +9,8 @@ toc_sticky: true
 ## About me
 insert about me here
 
-## resume
+## Resume
 resume pdf
 
-##vCSV 
+## CSV 
 csv here
