@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "About"
+#title: "About"
 author_profile: true
 toc: true
 toc_sticky: true
