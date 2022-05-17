@@ -7,7 +7,7 @@ permalink: /undergrad_projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /sunset.jpg
+  overlay_image: /cactus.jpg
   #actions:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
