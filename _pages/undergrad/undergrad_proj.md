@@ -18,24 +18,33 @@ intro:
 feature_row:
   - image_path: /_pages/undergrad/laksarilab/brain.PNG
     alt: "placeholder image 2"
-    title: "undergrad lab"
+    #title: "undergrad lab"
     excerpt: 'description and link'
+    Undergraduate Research Lab (Fall 2018 - Spring 2020) <br><br>
+    Keywords: text <br><br>
+    [Return to top](/undergrad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
   - image_path: /_pages/undergrad/ambassadors/bio5.PNG
     alt: "placeholder image 2"
-    title: "bio5 ambassadors"
+    #title: "bio5 ambassadors"
     excerpt: 'description and link'
+    BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br><br>
+    Keywords: text <br><br>
+    [Return to top](/undergrad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row3:    
   - image_path: /_pages/undergrad/seniordesign/aibpd.PNG
     alt: "placeholder image 2"
-    title: "senior design"
+    #title: "senior design"
     excerpt: 'description and link'
+    University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br><br>
+    Keywords: text <br><br>
+    [Return to top](/undergrad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
@@ -43,16 +52,22 @@ feature_row3:
 feature_row4:
   - image_path: /_pages/undergrad/sureprogram/controller.PNG
     alt: "placeholder image 2"
-    title: "SURE program"
+    #title: "SURE program"
     excerpt: 'description and link'
+    Clemson SURE program (Summer 2018) <br><br>
+    Keywords: text <br><br>
+    [Return to top](/undergrad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row5:   
   - image_path: /_pages/undergrad/skittlesorter/redesign.PNG
     alt: "placeholder image 2"
-    title: "skittles"
+    #title: "skittles"
     excerpt: 'description and link'
+    Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br><br>
+    Keywords: text <br><br>
+    [Return to top](/undergrad_projects/#introduction)'
     url: "#test-link"
     btn_label: "Explore"
     btn_class: "btn--primary"
