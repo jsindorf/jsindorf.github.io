@@ -12,9 +12,9 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "Undergraduate school projects and descriptions"
+#excerpt: 
 intro: 
-  - excerpt: "some info here" 
+  - excerpt: "This page presents links to my undergraduate projects at the University of Arizona. Each project has a short description and an image to provide a quick overview of the project and what it's about as well as a list of some keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. <br><br> Please note, on mobile, some embedded pdfs may be unavailable."
 feature_row:
   - image_path: /_pages/undergrad/laksarilab/brain.PNG
     alt: "placeholder image 2"
@@ -60,15 +60,24 @@ feature_row5:
     
 ---
 
+## Introduction
 {% include feature_row id="intro" type="center" %}
 
+## Table of Contents
+
+
+## Statisitcal Analysis of Brain Regions to Identify MCI 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+## BIO5 Ambassadors Internship Organizer and Lead
+{% include feature_row id="feature_row2" type="left" %}
 
+## Automated Pick and Place Device Design
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+## Laser Cell Micropatterning Controller
+{% include feature_row id="feature_row4" type="left" %}
 
+## Skittle Sorting Device
 {% include feature_row id="feature_row5" type="left" %}
 
