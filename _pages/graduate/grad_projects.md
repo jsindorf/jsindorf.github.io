@@ -17,7 +17,7 @@ header:
   #caption: "none"
 #excerpt: "Graduate school projects and descriptions"
 intro: 
-  - excerpt: "This page presents links to my graduate course projects. Each project has a short description and an image to provide a quick overview of the project and what it's about as well as a list of some keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
+  - excerpt: "This page presents links to my graduate course projects at Arizona State University. Each project has a short description and an image to provide a quick overview of the project and what it's about as well as a list of some keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. <br><br> Please note, on mobile, some embedded pdfs may be unavailable." 
 feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
