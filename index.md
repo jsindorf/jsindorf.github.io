@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 title: "About Page"
 author_profile: true
+
 toc: true
 toc_sticky: true
 
