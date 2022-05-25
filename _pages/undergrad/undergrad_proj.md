@@ -1,8 +1,11 @@
 ---
 title: "Undergraduate Projects"
 layout: splash
-permalink: /undergrad_projects/
+author_profile: false
 
+permalink: /undergrad_projects/
+toc: true
+toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
