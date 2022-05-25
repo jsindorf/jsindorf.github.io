@@ -22,15 +22,17 @@ intro:
 ---
 
 ## About
-about
+This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical approach and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy.
 
 ## Keywords
-insert list of keywords here
+Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains
 
-## Description
-insert long description here
+## Abstract
+Commercially available sensors, such as the photoplethysmography (PPG), struggle with long term use due to energy constraint criteria. PPG sensors also provide accurate signal readings when the user performs little to no motion, including activities such as sitting, standing, or laying. Activities
+with high motion such as walking or running receive noisy motion artifacts that potentially skew the data. This work proposes a way to apply filters to reduce the motion artifacts under high motion activities. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe the accelerometer data for activity recognition, or choose to apply a filter. Simulations of states show promising results with overall positive reward of .04 when turning the accelerometer on and off. Keeping the accelerometer on at all times received a negative overall reward of -.26. These results indicate that the use of the filters and overall energy savings are possible, bringing up a way to allow the PPG sensor to be used in studies more representative of daily life.
 
 ## Problem Formulation
+The problem formulation depicts the necessary setup and mathematics behind the project. It walks through the Markov chain, probabilities, PBVI set up and the POMDP. All of this allows for better understanding behind the complex Matlab algorithm that was written to solve the problem.
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/EEE598LB/Projectsetupformulation.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## Project Write-up
