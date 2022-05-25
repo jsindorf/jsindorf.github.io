@@ -1,7 +1,7 @@
 ---
 title: "BIO5 Ambassadors Internship Organizer and Lead"
 layout: single
-permalink: /bmi598_page/
+permalink: /ambassador_page/
 author_profile: true
 toc: true
 toc_sticky: true
