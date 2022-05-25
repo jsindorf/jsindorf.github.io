@@ -25,7 +25,7 @@ intro:
 text
 
 ## Teaching Assistant Experience
-- Includes the title of the course and a brief description of activities
+ Includes the title of the course and a brief description of activities
 #### EGR280: Engineering Statistics (Fall 2020) <br> 
 Hosted open office hours and recorded supplemnetal review sessions for each exam. 
 <br><br>
