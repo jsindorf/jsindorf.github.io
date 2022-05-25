@@ -22,7 +22,7 @@ feature_row:
   - image_path: /_pages/graduate/bmi598/wearable.PNG
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
-    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and tensorflow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
+    excerpt: 'This project showcases an embedded heart rate (HR) estimation device. Using machine learning and TensorFlow lite, a trained algorithm can be deployed to an Arduino Nano 33 BLE Sense to make heart rate predictions in real time based on a wearable photoplethysmogram (PPG) and tri axial accelerometer. <br>
     Course: BMI598: Embedded Machine Learning (Spring 2022) <br><br>
     Keywords: Embedded Machine Learning, Python, Arduino/C/C++, Sensor systems, Wearable Device <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -33,7 +33,7 @@ feature_row2:
   - image_path: /_pages/graduate/ame598/fullhead.PNG
     alt: "placeholder image 2"
     #title: "Anatomy Inspired Animatronic Head"
-    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a bluetooth connected PS3 controller. This project allows for indicidual control of both eyes, each ends of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations of the controller. <br>
+    excerpt: 'Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a Bluetooth connected PS3 controller. This project allows for individual control of both eyes, each end of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations of the controller. <br>
     Course: AME598: Expressive Robotics (Spring 2022) <br><br>
     Keywords: ESP32, Arduino/C/C++, Solidworks, Kinematics, Bluetooth, Laser Cutting, 3D printing, Soldering <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -56,7 +56,7 @@ feature_row4:
   - image_path: /_pages/graduate/EEE598RL/ur5.PNG
     alt: "placeholder image 2"
     #title: "EEE598 RL title"
-    excerpt: 'Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of a RL project revolving around real reaching tasks with a UR5 arm. Overall two methods of RL were applied to the UR5, being trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, succesfully training the UR5 arm to reach specific points in a 2D space optimally.  <br>
+    excerpt: 'Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of a RL project revolving around real reaching tasks with a UR5 arm. Overall, two methods of RL were applied to the UR5, being trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, successfully training the UR5 arm to reach specific points in a 2D space optimally. <br>
     Course: EEE598: Reinforcement Learning (Fall 2021) <br><br>
     Keywords: Reinforcement Learning, Python, UR5, Ubuntu, Virtual Machine, Github, Docker <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -67,7 +67,7 @@ feature_row5:
   - image_path: /_pages/graduate/EEE598LB/tprb.PNG
     alt: "placeholder image 2"
     #title: "EEE598 LB title"
-    excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor  system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical appraoch and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br>
+    excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical approach and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br>
     Course: EEE598: Learning Based Sequential Decision Making (Fall 2021)  <br><br>
     Keywords: Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -78,7 +78,7 @@ feature_row6:
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
     #title: "EGR557 title"
-    excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final github pages website was made to document the entire process. <br>
+    excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process. <br>
     Course: EGR557: Foldable Robotics (Spring 2021)  <br><br>
     Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics <br><br>
     [Return to top](/grad_projects/#introduction)'
@@ -90,7 +90,7 @@ feature_row7:
   - image_path: /_pages/graduate/MAE598/bioinsp.PNG
     alt: "placeholder image 2"
     #title: "MAE598 title"
-    excerpt: 'This project takes inspiration from the muscles anatomy in the design and testing of a soft passive ankle orthotic. A low cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservior under the ball of the foot, the system can be passivley actuated when stepped on to fill the actuator with air, extending it. Overall the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort.  <br>
+    excerpt: 'This project takes inspiration from the muscle’s anatomy in the design and testing of a soft passive ankle orthotic. A low-cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservoir under the ball of the foot, the system can be passively actuated when stepped on to fill the actuator with air, extending it. Overall, the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort.  <br>
     Course: MAE598: Bioinspired Robotics (Spring 2021)  <br><br>
     Keywords: Bioinspiration, Wearable Device, Rapid Prototyping <br><br>
     [Return to top](/grad_projects/#introduction) '
