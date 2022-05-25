@@ -31,11 +31,13 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 
 
 ## Education
-#### Graduate: 
-- Arizona State University, PhD, Systems Engineering (Fall 2020 - Present) (GPA: 4.0) <br>
-- Arizona State University, Masters in Passing, Systems Engineering (Fall 2020 - Summer 2021) (GPA: 4.0) <br>
-#### Undergraduate 
-- University of Arizona, Bachelors of Biomedical Engineering, minor of Mechanical Engineering (Fall 2016 - Spring 2020) (GPA: 3.917)
+#### Graduate (Fall 2020 - Present): 
+- Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br>
+- Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br>
+
+
+#### Undergraduate (Fall 2016 - Spring 2020)
+- University of Arizona, Bachelors of Biomedical Engineering, minor of Mechanical Engineering  <br>(GPA: 3.917)
 
 
 ## Resume
