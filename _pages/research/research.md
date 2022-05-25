@@ -25,4 +25,15 @@ intro:
 text
 
 ## Teaching Assistant Experience
-text
+#### EGR280: Engineering Statistics (Fall 2020) <br> 
+
+<br><br>
+#### EGR201: Use Inspired Design (Spring 2021)<br>
+
+<br><br>
+#### EGR202: Use Inspired Design II (Fall 2021)<br>
+
+<br><br>
+#### EGR202: Use Inspired Design II (Spring 2022)<br>
+
+<br><br>
