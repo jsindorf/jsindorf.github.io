@@ -19,7 +19,7 @@ header:
 
 ---
 ## Website Goal
-The goal of this website is to create an interactive and visual way to view parts of my academic and professional career. It highlights projects and skills I learned during my academic journey that may otherwise be left in the past including things from course projects, internships, and previous jobs. This website is a living document that will be forever growing, just like me. <br>
+The goal of this website is to create an interactive and visual way to view parts of my academic and professional career. It highlights projects and skills I learned during my journey that may otherwise be left in the past including things from course projects, internships, and previous jobs. This website is a living document that will be forever growing, just like me. <br>
 Click through the links provided at the top of the page to explore my graduate research as well as some graduate and undergraduate projects. My resume and CV can be found at the bottom of this page. 
 
 ## About me
