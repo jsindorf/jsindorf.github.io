@@ -80,7 +80,7 @@ feature_row6:
     #title: "EGR557 title"
     excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process. <br>
     Course: EGR557: Foldable Robotics (Spring 2021)  <br><br>
-    Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics <br><br>
+    Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /egr557_page/
     btn_label: "Explore"
