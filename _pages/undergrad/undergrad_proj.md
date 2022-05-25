@@ -24,7 +24,7 @@ feature_row:
     Undergraduate Research Lab (Fall 2018 - Spring 2020) <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: "#test-link"
+    url: /undergradlab_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
@@ -35,7 +35,7 @@ feature_row2:
     BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: "#test-link"
+    url: /ambassador_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row3:    
@@ -46,7 +46,7 @@ feature_row3:
     University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: "#test-link"
+    url: seniordesign_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
     
@@ -58,7 +58,7 @@ feature_row4:
     Clemson SURE program (Summer 2018) <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: "#test-link"
+    url: /sure_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row5:   
@@ -69,7 +69,7 @@ feature_row5:
     Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: "#test-link"
+    url: /skittle_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 
