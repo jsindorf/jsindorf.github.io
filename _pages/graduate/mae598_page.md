@@ -22,7 +22,7 @@ intro:
 ---
 
 ## About
-This project takes inspiration from the muscle’s anatomy in the design and testing of a soft passive ankle orthotic. A low-cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservoir under the ball of the foot, the system can be passively actuated when stepped on to fill the actuator with air, extending it. Overall, the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort. Verification of the system was done through filtered EMG and a goniometer data, as well as force plate response to heel strikes. <br>
+This project takes inspiration from the muscle’s anatomy in the design and testing of a soft passive ankle orthotic. A low-cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservoir under the ball of the foot, the system can be passively actuated when stepped on to fill the actuator with air, extending it. Overall, the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort. Verification of the system was done through filtered EMG and goniometer data, as well as force plate response to heel strikes. <br>
 Course: MAE598: Bioinspired Robotics (Spring 2021)
 
 ## Keywords
