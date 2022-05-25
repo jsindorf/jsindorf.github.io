@@ -29,4 +29,4 @@ insert list of keywords here
 ## Description
 insert long description here
 
-## [Back to Grad Projects](/grad_projects/)
+## [Back to Undergrad Projects](/undergrad_projects/)
