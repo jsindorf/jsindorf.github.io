@@ -25,7 +25,7 @@ intro:
 Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process.
 
 ## Keywords
-Keywords: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub
+Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub
 
 ## Description
 
