@@ -46,7 +46,7 @@ feature_row3:
     University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
-    url: seniordesign_page/
+    url: /seniordesign_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
     
