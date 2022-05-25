@@ -22,13 +22,17 @@ intro:
 ---
 
 ## About
-about
+This project takes inspiration from the muscle’s anatomy in the design and testing of a soft passive ankle orthotic. A low-cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservoir under the ball of the foot, the system can be passively actuated when stepped on to fill the actuator with air, extending it. Overall, the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort. Verification of the system was done through filtered EMG and a goniometer data, as well as force plate response to heel strikes. <br>
+Course: MAE598: Bioinspired Robotics (Spring 2021)
 
 ## Keywords
-insert list of keywords here
+Keywords: Bioinspiration, Wearable Device, Rapid Prototyping, EMG, Gait Analysis
 
 ## Description
-insert long description here
+This device proposes a way to avoid a high cost and high complexity ankle orthotic through the use of a closed pneumatic system. Materials to construct the device were all low cost and easily accessible given the project restrictions due to COVID. The design takes inspiration from a pneumatic air muscle and connects an elastic air muscle from the toes to just below the knee. The design places the air reservoir below the ball of the foot that can hold the equivalent amount of air to fill the pneumatic muscle when compressed. Placement of the air reservoir was an important design consideration, as during natural gait, the foot steps down from the toes, then slowly rotates to the heel before lifting off again. The air reservoir gradually compresses with the step and once fully compressed, the air muscle releases all static tension on the foot. Once the foot is re-lifted, the air muscle compresses providing a static tension driving the toes up in dorsiflexion. <br>
+To validate the system, four EMG based sensors and one Goniometer were placed around the subject’s lower leg. Three experimental conditions were tested on a force plate treadmill to also measure the force at which the toe and heel strikes. Those three conditions were baseline, walking barefoot, passive, walking with just the shoe on, and active, walking with the entire device attached, each for three minutes. A video of the active condition can be seen in the System Demo Video. <br>
+Overall, a small reduction in effort, and a small increase in dorsiflexion (by angle) was found. This provides a sufficient proof of concept leaving room for future optimization of the device. <br>
+For more information refer to the Final Slideshow and Project Write-up to learn more.
 
 ## System Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BBHF2s-hBws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
