@@ -23,10 +23,10 @@ feature_row:
   - image_path: /_pages/undergrad/laksarilab/brain.PNG
     alt: "placeholder image 2"
     #title: "undergrad lab"
-    excerpt: 'description and link <br>
+    excerpt: 'Running statistics on brain regions allows us to see significant differences between subject groups. This project used brain scans from male and female subjects, some healthy, and some with mild cognitive impairment (MCI). Through FreeSurfer, the brain regions of each scanned brain can be collected and split up by volume, thickness, and area. With that information, statistical differences in the healthy and MCI group can be explored. All data was organized in excel and all statistics was done through JMP, taking t-tests. This work was in contribution to a paper written by Dr. Carissa Grijalva in which I am listed as a contributor. The published paper can be found [here](https://pubmed.ncbi.nlm.nih.gov/33783915/).<br><br>
     Undergraduate Research Lab (Fall 2018 - Spring 2020) <br>
-    Project Type: Collaborative/Individual <br><br>
-    Keywords: text <br><br>
+    Project Type: Collaborative/Individual <br>
+    **Keywords**: JMP, Brain Regions, Statistics, MCI, FreeSurfer <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /undergradlab_page/
     btn_label: "Explore"
