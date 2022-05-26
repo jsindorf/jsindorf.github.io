@@ -25,7 +25,7 @@ feature_row:
     #title: "undergrad lab"
     excerpt: 'Running statistics on brain regions allows us to see significant differences between subject groups. This project used brain scans from male and female subjects, some healthy, and some with mild cognitive impairment (MCI). Through FreeSurfer, the brain regions of each scanned brain can be collected and split up by volume, thickness, and area. With that information, statistical differences in the healthy and MCI group can be explored. All data was organized in excel and all statistics was done through JMP, taking t-tests. This work was in contribution to a paper written by Dr. Carissa Grijalva in which I am listed as a contributor. The published paper can be found [here](https://pubmed.ncbi.nlm.nih.gov/33783915/).<br><br>
     Undergraduate Research Lab (Fall 2018 - Spring 2020) <br>
-    Project Type: Collaborative/Individual <br>
+    Project Type: Collaborative <br>
     **Keywords**: JMP, Brain Regions, Statistics, MCI, FreeSurfer <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /undergradlab_page/
@@ -37,7 +37,7 @@ feature_row2:
     #title: "bio5 ambassadors"
     excerpt: 'The BIO5 Ambassadors is a yearlong internship that allows interns to earn class credit. In the program students learn the collaboration between business and science, attend weekly professional development workshops, and work with a BIO5 staff mentor on a personalized project. The summer of 2019 I was able to organize and revamp this internship program for the 2019-2020 school year. I interviewed and hired an intern, as well as organized and set up intern activities such as weekly professional development workshops.<br><br>
     BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br>
-    Project Type: Collaborative/Individual <br>
+    Project Type: Collaborative <br>
     **Keywords**: Marketing, Management, Professional Development <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /ambassador_page/
