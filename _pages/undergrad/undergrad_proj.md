@@ -35,10 +35,10 @@ feature_row2:
   - image_path: /_pages/undergrad/ambassadors/bio5.PNG
     alt: "placeholder image 2"
     #title: "bio5 ambassadors"
-    excerpt: 'description and link <br>
+    excerpt: 'The BIO5 Ambassadors is a yearlong internship that allows interns to earn class credit. In the program students learn the collaboration between business and science, attend weekly professional development workshops, and work with a BIO5 staff mentor on a personalized project. The summer of 2019 I was able to organize and revamp this internship program for the 2019-2020 school year. I interviewed and hired an intern, as well as organized and set up intern activities such as weekly professional development workshops.<br><br>
     BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br>
-    Project Type: Collaborative/Individual <br><br>
-    Keywords: text <br><br>
+    Project Type: Collaborative/Individual <br>
+    **Keywords**: Marketing, Management, Professional Development <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /ambassador_page/
     btn_label: "Explore"
@@ -47,10 +47,10 @@ feature_row3:
   - image_path: /_pages/undergrad/seniordesign/aibpd.PNG
     alt: "placeholder image 2"
     #title: "senior design"
-    excerpt: 'description and link <br>
+    excerpt: 'UofA senior design was a cross-disciplinary yearlong engineering project that put us into teams of five to solve a problem issued by a sponsor. Through Roche Tissue Diagnostics, my team worked to design an automatic pick and place device, intended to be used on the factory floor. This would pick up small, quarter sized tracking buttons, and place them onto a roll of tape for easy distribution. As team lead, I handled and organized all team activities as well as all communication with the sponsor. On top of that, I also created all the Solidworks designs and parts that were delivered to the sponsor as well as drafted all written documents and presentations. Overall I took on the roles of team lead, project manager and head CAD designer and we were able to deliver the plans to create a pick and place device (full deployment of the device was cut short due to COVID). <br><br>
     University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br>
-    Project Type: Collaborative/Team <br><br>
-    Keywords: text <br><br>
+    Project Type: Collaborative/Team <br><
+    **Keywords**: Leadership, Solidworks, Project Management, Technical writing/presentations, Communication, Design <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /seniordesign_page/
     btn_label: "Explore"
@@ -88,14 +88,14 @@ feature_row5:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-[Statisitcal Analysis of Brain Regions to Identify MCI ](/undergrad_projects/#statisitcal-analysis-of-brain-regions-to-identify-mci)  |  [BIO5 Ambassadors Internship Organizer and Lead](/undergrad_projects/#bio5-ambassadors-internship-organizer-and-lead)  <br> 
+[Statisitcal Analysis of Brain Regions to Identify MCI ](/undergrad_projects/#statisitcal-analysis-of-brain-regions-to-identify-mci)  |  [BIO5 Ambassadors Internship Organizer and Cofacilitator](/undergrad_projects/#bio5-ambassadors-internship-organizer-and-cofacilitator)  <br> 
 [Automated Pick and Place Device Design](/undergrad_projects/#automated-pick-and-place-device-design)  |  [Laser Cell Micropatterning Controller](/undergrad_projects/#laser-cell-micropatterning-controller) <br>
 [Skittle Sorting Device](/undergrad_projects/#skittle-sorting-device)  
 
 ## Statisitcal Analysis of Brain Regions to Identify MCI 
 {% include feature_row id="feature_row" type="left" %}
 
-## BIO5 Ambassadors Internship Organizer and Lead
+## BIO5 Ambassadors Internship Organizer and Cofacilitator
 {% include feature_row id="feature_row2" type="left" %}
 
 ## Automated Pick and Place Device Design
