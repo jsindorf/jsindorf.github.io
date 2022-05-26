@@ -23,7 +23,10 @@ intro:
 
 ## Research Interests
 text
-
+## Publications
+Coming Soon
+## Dissertation Document
+Coming Soon
 ## Teaching Assistant Experience
  Includes the title of the course and a brief description of activities<br><br>
 **EGR280: Engineering Statistics (Fall 2020)** <br> 
