@@ -24,7 +24,8 @@ feature_row:
     alt: "placeholder image 2"
     #title: "undergrad lab"
     excerpt: 'description and link <br>
-    Undergraduate Research Lab (Fall 2018 - Spring 2020) <br><br>
+    Undergraduate Research Lab (Fall 2018 - Spring 2020) <br>
+    Project Type: Collaborative/Individual <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /undergradlab_page/
@@ -35,7 +36,8 @@ feature_row2:
     alt: "placeholder image 2"
     #title: "bio5 ambassadors"
     excerpt: 'description and link <br>
-    BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br><br>
+    BIO5 Public Affairs Assistant (Fall 2017 - Spring 2020) <br>
+    Project Type: Collaborative/Individual <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /ambassador_page/
@@ -46,7 +48,8 @@ feature_row3:
     alt: "placeholder image 2"
     #title: "senior design"
     excerpt: 'description and link <br>
-    University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br><br>
+    University of Arizona: Engineering Senior Design (Fall 2020 - Spring 2020) <br>
+    Project Type: Collaborative/Team <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /seniordesign_page/
@@ -58,7 +61,8 @@ feature_row4:
     alt: "placeholder image 2"
     #title: "SURE program"
     excerpt: 'description and link <br>
-    Clemson SURE program (Summer 2018) <br><br>
+    Clemson SURE program (Summer 2018) <br>
+    Project Type: Individual <br><br>
     Keywords: text <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /sure_page/
@@ -69,7 +73,8 @@ feature_row5:
     alt: "placeholder image 2"
     #title: "skittles"
     excerpt: 'Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds. <br>
-    Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br><br>
+    Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br>
+    Project Type: Collaborative/Team <br><br>
     Keywords: Raspberry Pi, Python, Solidworks, Laser cutting, 3D printing, Design <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /skittle_page/
