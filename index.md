@@ -43,7 +43,7 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 
 
 ## Resume
-Resume coming soon
+Coming Soon
 
 ## CV 
-CV coming soon
+Coming Soon
