@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: "About Page"
 author_profile: true
