@@ -68,9 +68,9 @@ feature_row5:
   - image_path: /_pages/undergrad/skittlesorter/redesign.PNG
     alt: "placeholder image 2"
     #title: "skittles"
-    excerpt: 'description and link <br>
+    excerpt: 'Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds. <br>
     Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br><br>
-    Keywords: text <br><br>
+    Keywords: Raspberry Pi, Python, Solidworks, Laser cutting, 3D printing, Design <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /skittle_page/
     btn_label: "Explore"
