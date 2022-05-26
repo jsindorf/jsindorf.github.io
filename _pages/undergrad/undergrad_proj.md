@@ -60,10 +60,10 @@ feature_row4:
   - image_path: /_pages/undergrad/sureprogram/controller.PNG
     alt: "placeholder image 2"
     #title: "SURE program"
-    excerpt: 'description and link <br>
+    excerpt: 'Laser patterning cells allows for a high spatial and temporal resolution. With the practice of laser guidance, cells (e.g., epithelial) can be patterned accurately to observe their behavior under a defined microenvironment. Eventually, laser patterned cells can be added to 3D bio-printed materials. In order to achieve this, a micron accurate stage that moves in XYZ directions, change speeds and stores and returns to specific positions is needed. This research is concentrated on development and design of the Joystick controlled stage. <br><br>
     Clemson SURE program (Summer 2018) <br>
-    Project Type: Individual <br><br>
-    Keywords: text <br><br>
+    Project Type: Individual <br>
+    **Keywords**: Arduino, Solidworks, Laser micropatterning, cells, circuits, laser cutting <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /sure_page/
     btn_label: "Explore"
@@ -72,10 +72,10 @@ feature_row5:
   - image_path: /_pages/undergrad/skittlesorter/redesign.PNG
     alt: "placeholder image 2"
     #title: "skittles"
-    excerpt: 'Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds. <br>
+    excerpt: 'Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds. <br><br>
     Course: BME 210: Intermediate Engineering Design (Spring 2018)  <br>
-    Project Type: Collaborative/Team <br><br>
-    Keywords: Raspberry Pi, Python, Solidworks, Laser cutting, 3D printing, Design <br><br>
+    Project Type: Collaborative/Team <br>
+    **Keywords**: Raspberry Pi, Python, Solidworks, Laser cutting, 3D printing, Design <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /skittle_page/
     btn_label: "Explore"
