@@ -20,7 +20,9 @@ header:
 ---
 ## Website Goal
 The goal of this website is to create an interactive and visual way to view parts of my academic and professional career. It highlights projects and skills I learned during my journey that may otherwise be left in the past including things from course projects, internships, and previous jobs. This website is a living document that will be forever growing, just like me. <br>
-Click through the links provided at the top of the page to explore my graduate research as well as some graduate and undergraduate projects. My resume and CV can be found at the bottom of this page. 
+Click through the links provided at the top of the page to explore my graduate research as well as some graduate and undergraduate projects. 
+<br><br>
+My resume and CV can be found at the bottom of this page. 
 
 ## About me
 My name is Jacob Sindorf, a current PhD student in Systems Engineering at Arizona State University. A true Arizona native, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation (and perhaps beyond). Staying active through sports in high school kept me busy, but I always had a strong background in academia through AP courses and the guidance of many amazing teachers along the way. <br>
