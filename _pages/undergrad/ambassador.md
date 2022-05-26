@@ -22,12 +22,12 @@ intro:
 ---
 
 ## About
-text
+The BIO5 Ambassadors is a yearlong internship that allows interns to earn class credit. In the program students learn the collaboration between business and science, attend weekly professional development workshops, and work with a BIO5 staff mentor on a personalized project. The summer of 2019 I was able to organize and revamp this internship program for the 2019-2020 school year. I interviewed and hired an intern, as well as organized and set up intern activities such as weekly professional development workshops.
 ## Keywords
-insert list of keywords here
+Marketing, Management, Professional Development
 
 ## Description
-insert long description here
+As a previous intern in the BIO5 Ambassadors program, I was able to get a job as a Public Affairs Assistant at BIO5, where I hosted tours, and worked with the marketing team. The Ambassadors internship was abandoned the year after I was an intern, so I took up the mantle and decided to revamp the program. The major changes I applied were getting students class credit (rather than an unpaid internship), and adding more structure. The structure started with a BIO5 staff mentor that each intern could work closely with on a personalized project of their interest. These projects relate to the business side of science and would work directly with BIO5's marketing, IT, or business office. The second main change was to add weekly professional development workshops. These would allow the interns an opportunity to grow professionally, and also allow the BIO5 staff members to lecture on topics they're already experts in. The first year only saw one intern, but has since seen success with the new format I created and has officially had three interns in 2020-2021, and three interns in 2021-2022. Check up on the program [here](https://bio5.org/impact/engaging-students/bio5-ambassadors).
 
 
 ## [Back to Undergrad Projects](/undergrad_projects/)
