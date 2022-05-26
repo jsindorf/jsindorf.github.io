@@ -22,7 +22,7 @@ intro:
 ---
 
 ## About
-Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds. 
+Sort skittles by their respective color was the only prompt and assistance this project started with. Through a raspberry pi, python, solidworks, and access to a laser cutter and 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relative fast speeds.  
 
 ## Keywords
 Raspberry Pi, Python, Solidworks, Laser cutting, 3D printing, Design
