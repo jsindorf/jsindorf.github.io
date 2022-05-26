@@ -88,9 +88,11 @@ feature_row5:
 {% include feature_row id="intro" type="center" %}
 
 ## Table of Contents
-[Statisitcal Analysis of Brain Regions to Identify MCI ](/undergrad_projects/#statisitcal-analysis-of-brain-regions-to-identify-mci)  |  [BIO5 Ambassadors Internship Organizer and Cofacilitator](/undergrad_projects/#bio5-ambassadors-internship-organizer-and-cofacilitator)  <br> 
-[Automated Pick and Place Device Design](/undergrad_projects/#automated-pick-and-place-device-design)  |  [Laser Cell Micropatterning Controller](/undergrad_projects/#laser-cell-micropatterning-controller) <br>
-[Skittle Sorting Device](/undergrad_projects/#skittle-sorting-device)  
+- [Statisitcal Analysis of Brain Regions to Identify MCI ](/undergrad_projects/#statisitcal-analysis-of-brain-regions-to-identify-mci)<br>
+- [BIO5 Ambassadors Internship Organizer and Cofacilitator](/undergrad_projects/#bio5-ambassadors-internship-organizer-and-cofacilitator)  <br> 
+- [Automated Pick and Place Device Design](/undergrad_projects/#automated-pick-and-place-device-design)<br>
+- [Laser Cell Micropatterning Controller](/undergrad_projects/#laser-cell-micropatterning-controller) <br>
+- [Skittle Sorting Device](/undergrad_projects/#skittle-sorting-device)  
 
 ## Statisitcal Analysis of Brain Regions to Identify MCI 
 {% include feature_row id="feature_row" type="left" %}
