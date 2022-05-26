@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Graduate Research"
 layout: single
 permalink: /research/
 author_profile: true
@@ -14,7 +14,7 @@ header:
   #  - label: "Download"
   #    url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "none"
-excerpt: "Descriptions of my graduate research interests and relevant material."
+#excerpt: "Descriptions of my graduate research interests and relevant material."
 
 intro: 
   - excerpt: "some info here"   
