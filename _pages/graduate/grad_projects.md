@@ -46,10 +46,10 @@ feature_row3:
   - image_path: /_pages/graduate/egr608/ppgvpgapg.PNG
     alt: "placeholder image 2"
     #title: "egr608 title"
-    excerpt: 'Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. Here this project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal. Specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY). <br><br>
+    excerpt: 'Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. This project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal, specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY). <br><br>
     Course: EGR608: Advanced Simulation (Spring 2022)  <br>
     Project Type: Individual <br>
-    **Keywords**: Matlab, Time Series Signals, Data-Driven Discovery, Linear Algebra <br><br>
+    **Keywords**: Matlab, Time Series Signals, Data-Driven Discovery/SINDY, Linear Algebra <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /egr608_page/
     btn_label: "Explore"
@@ -59,7 +59,7 @@ feature_row4:
   - image_path: /_pages/graduate/EEE598RL/ur5.PNG
     alt: "placeholder image 2"
     #title: "EEE598 RL title"
-    excerpt: 'Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of a RL project revolving around real reaching tasks with a UR5 arm. Overall, two methods of RL were applied to the UR5, being trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, successfully training the UR5 arm to reach specific points in a 2D space optimally. <br><br>
+    excerpt: 'Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of an RL project revolving around real reaching tasks with a UR5 arm. Overall, two methods of RL were applied to the UR5: trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, successfully training the UR5 arm to reach specific points in a 2D space optimally. <br><br>
     Course: EEE598: Reinforcement Learning (Fall 2021) <br>
     Project Type: Collaborative/Team <br>
    **Keywords**: Reinforcement Learning, Python, UR5, Ubuntu, Virtual Machine, Github, Docker <br><br>
@@ -74,7 +74,7 @@ feature_row5:
     excerpt: 'This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical approach and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy. <br><br>
     Course: EEE598: Learning Based Sequential Decision Making (Fall 2021)  <br>
     Project Type: Individual <br>
-    **Keywords**: Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains <br><br>
+    **Keywords**: Matlab, Partially Observable Markov Decision Process (POMDP)/ Point Based Value Iteration (PBVI), Markov Chains <br><br>
     [Return to top](/grad_projects/#introduction)'
     url: /eee598lb_page/
     btn_label: "Explore"
@@ -83,7 +83,7 @@ feature_row6:
   - image_path: /_pages/graduate/EGR557/foldable.PNG
     alt: "placeholder image 2"
     #title: "EGR557 title"
-    excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process. <br><br>
+    excerpt: 'Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive Python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process. <br><br>
     Course: EGR557: Foldable Robotics (Spring 2021)  <br>
     Project Type: Collaborative/Team <br>
     **Keywords**: Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub <br><br>
@@ -107,7 +107,7 @@ Project Type: Collaborative/Team <br>
     
 ---
 ## Introduction
-{% include feature_row id="intro" type="center" %}
+> This page presents links to my graduate course projects at Arizona State University. Each project has a short description and an image to provide a quick overview of the project and a list of keywords. Keywords represent the relevant skills and important topics the project covers. Under each project description, click on the 'Explore' button to learn more or 'Return to top' to return to the Table of Contents which provides links by title to each project. <br><br> Please note, on mobile, some embedded pdfs may be unavailable.
 
 ## Table of Contents
 - [Embedded Deep Learning Heart Rate Estimation Device](/grad_projects/#embedded-deep-learning-heart-rate-estimation-device) <br> 
