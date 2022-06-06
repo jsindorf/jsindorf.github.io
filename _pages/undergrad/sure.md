@@ -2,7 +2,7 @@
 title: "Laser Cell Micropatterning Controller"
 layout: single
 permalink: /sure_page/
-author_profile: true
+author_profile: false
 toc: true
 toc_sticky: true
 #date: 2016-03-23T11:48:41-04:00
@@ -22,10 +22,11 @@ intro:
 ---
 
 ## About
-Laser patterning cells allows for a high spatial and temporal resolution. With the practice of laser guidance, cells (e.g., epithelial) can be patterned accurately to observe their behavior under a defined microenvironment. Eventually, laser patterned cells can be added to 3D bio-printed materials. In order to achieve this, a micron accurate stage that moves in XYZ directions, change speeds and stores and returns to specific positions is needed. This research is concentrated on development and design of the Joystick controlled stage.
+Laser patterning cells allows for a high spatial and temporal resolution. With the practice of laser guidance, cells (e.g., epithelial) can be patterned accurately to observe their behavior under a defined microenvironment. Eventually, laser patterned cells can be added to 3D bio-printed materials. In order to achieve this, a micron accurate stage that moves in XYZ directions, changes speeds, and stores and returns to specific 3D spatial positions is needed. This research is concentrated on development and design of the Joystick controlled stage.
+
 
 ## Keywords
-Arduino, Solidworks, Laser micropatterning, cells, circuits, laser cutting
+Arduino, Solidworks, Laser Micropatterning, Bioengineering, Design, Circuits, Laser Cutting
 
 ## Description
 This project was a summer research project through the Clemson SURE program. I was able to work with Dr. Gao and find a project based around laser micropatterning of cells. This is when a concentrated laser is used to pick up and moves cells, similar to an optical tweezer. By patterning cells in specific configurations, it is possible to observe or even force their interactions. This would be useful in custom 3D cellular molds, or even bio-printing. As it could be a method to add vascularity to 3D printed cell molds. <br>
