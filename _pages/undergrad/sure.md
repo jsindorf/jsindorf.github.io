@@ -1,6 +1,6 @@
 ---
 title: "Laser Cell Micropatterning Controller"
-layout: wide
+layout: splash
 permalink: /sure_page/
 author_profile: false
 toc: true
