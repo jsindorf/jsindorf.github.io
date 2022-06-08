@@ -20,11 +20,21 @@ intro:
   - excerpt: "some info here"   
    
 ---
+## Table of Contents
+- [About](/mae598_page/#about)<br>
+- [Keywords](/mae598_page/#keywords)  <br> 
+- [Abstract](/mae598_page/#abstract) <br>
+- [System Demo Video](/mae598_page/#system-demo-video)  <br>
+- [Final Slideshow](/mae598_page/#final-slideshow) <br>
+- [Project Write Up](/mae598_page/#project-write-up) <br>
+- [Return to Grad Projects](/grad_projects/) 
+
+
 
 ## About
 This project takes inspiration from the muscle’s anatomy in the design and testing of a soft passive ankle orthotic. A low-cost pneumatic actuator worn from the foot to the knee intends to provide dorsi and plantarflexion assistance. Through an air reservoir under the ball of the foot, the system can be passively actuated when stepped on to fill the actuator with air, extending it. Overall, the system was able to provide dorsiflexion assistance and a slight reduction in muscle effort. Verification of the system was done through filtered EMG and goniometer data, as well as force plate response to heel strikes. <br><br>
 
-For more information and visualization refer to the Final Presentation and the Project Write-up. 
+For more information and visualization refer to the [Final Slideshow](/mae598_page/#final-slideshow) and the [Project Write Up](/mae598_page/#project-write-up). 
 
 ## Keywords
 Bioinspiration, Wearable Device, Rapid Prototyping, EMG, Gait Analysis
@@ -40,7 +50,8 @@ Video demonstrating the Active state of a subject wearing and walking with the d
 ## Final Slideshow
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/MAE598/Final Presentation.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## Project Write-up
+## Project Write Up
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/MAE598/Final Paper.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## [Back to Grad Projects](/grad_projects/)
+<br><br>
+[Return to top](/mae598_page/#table-of-contents)
