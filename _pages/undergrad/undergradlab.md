@@ -20,6 +20,7 @@ intro:
   - excerpt: "some info here"   
    
 ---
+## Table of Contents
 - [About](/undergradlab_page/#about)<br>
 - [Keywords](/undergradlab_page/#keywords)  <br> 
 - [Description](/undergradlab_page/#description) <br>
