@@ -63,7 +63,7 @@ feature_row4:
     excerpt: 'Laser patterning cells allows for a high spatial and temporal resolution. With the practice of laser guidance, cells (e.g., epithelial) can be patterned accurately to observe their behavior under a defined microenvironment. Eventually, laser patterned cells can be added to 3D bio-printed materials. In order to achieve this, a micron accurate stage that moves in XYZ directions, changes speeds, and stores and returns to specific 3D spatial positions is needed. This research is concentrated on development and design of the Joystick controlled stage. <br><br>
     **Program**: Clemson SURE program (Summer 2018) <br>
     **Project Type**: Individual <br>
-    **Keywords**: Arduino, Solidworks, Laser Micropatterning, Bioengineering, Design, Circuits, laser Cutting <br><br>
+    **Keywords**: Arduino, Solidworks, Laser Micropatterning, Bioengineering, Design, Circuits, Laser Cutting <br><br>
     [Return to top](/undergrad_projects/#introduction)'
     url: /sure_page/
     btn_label: "Explore"
