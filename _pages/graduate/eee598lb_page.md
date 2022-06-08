@@ -32,10 +32,10 @@ intro:
 
 ## About
 This work proposes a potential way to apply filters to reduce the motion artifacts of a photoplethysmogram (PPG) while also creating some sensor system energy savings. Through a Partial Observable Markov Decision Process (POMDP) framework and a Point Based Value Iteration (PBVI) algorithm, optimal actions can be selected to either observe accelerometer data for activity recognition, or choose to apply a noise reducing filter. This project is a theoretical approach and verifies that through the described methods, it would be possible to achieve energy savings and signal noise reduction while maintaining a high state prediction accuracy.<br> <br>
-For more information about the project refer to the Problem Formulation and Project Write-up. 
+For more information about the project refer to the [Problem Formulation](/eee598lb_page/#problem-formulation) and [Project Write Up](/eee598lb_page/#project-write-up). 
 
 ## Keywords
-Matlab, Partially Observable Markov Decision Process (POMDP), Markov Chains
+Matlab, Partially Observable Markov Decision Process (POMDP)/ Point Based Value Iteration (PBVI), Markov Chains
 
 ## Abstract
 Commercially available sensors, such as the photoplethysmography (PPG), struggle with long term use due to energy constraint criteria. PPG sensors also provide accurate signal readings when the user performs little to no motion, including activities such as sitting, standing, or laying. Activities
