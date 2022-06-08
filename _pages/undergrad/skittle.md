@@ -38,4 +38,5 @@ This project was my introduction to a real engineering design project. I had jus
 
 ## Pictures
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/skittlesorter/sorterpics.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+<br><br>
+[Return to top](/skittle_page/#table-of-contents)
