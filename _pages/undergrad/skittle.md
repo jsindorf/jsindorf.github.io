@@ -21,10 +21,10 @@ intro:
    
 ---
 ## Table of Contents
-- [About](/undergrad_projects/skittle/#about)<br>
-- [Keywords](/undergrad_projects/skittle/#keywords)  <br> 
-- [Description](/undergrad_projects/skittle/#description) <br>
-- [Pictures](/undergrad_projects/skittle/#pictures)  <br>
+- [About](/skittle/#about)<br>
+- [Keywords](/skittle/#keywords)  <br> 
+- [Description](/skittle/#description) <br>
+- [Pictures](/skittle/#pictures)  <br>
 - [Return to Undergrad Projects](/undergrad_projects/)  
 
 ## About
