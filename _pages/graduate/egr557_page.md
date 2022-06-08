@@ -1,6 +1,6 @@
 ---
 title: "Single Motor Foldable Paper Leg Robot"
-layout: single
+layout: splash
 permalink: /egr557_page/
 author_profile: true
 toc: true
@@ -21,11 +21,18 @@ intro:
    
 ---
 
+## Table of Contents
+- [About](/egr557_page/#about)<br>
+- [Keywords](/egr557_page/#keywords)  <br> 
+- [Description](/egr557_page/#description) <br>
+- [Return to Grad Projects](/grad_projects/) 
+
+
 ## About
-Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process.
+Foldable robotics are both inexpensive and capable of rapid prototyping, allowing for quick verification and testing. Here the problem of how to create unique motion through minimal actuators was explored, and a final single actuated paper leg robot was created. The paper leg was tested at different stiffness values to find the optimal leg for distance travel in a set period of time. Extensive Python kinematic and dynamic simulation was used to verify the system, and a final GitHub pages website was made to document the entire process.
 
 ## Keywords
-Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub
+ Python, Rapid Prototyping, Simulation, Kinematics, Dynamics, GitHub
 
 ## Description
 
@@ -34,5 +41,5 @@ The project involved heavy kinematic and dynamic simulation in Python. This test
 The final presentation, presentation 3, [found here](https://l-terrestris.github.io/Presentations/Presentation_3), briefly summarizes the entire project. Overall, an optimal paper leg stiffness was found, with similar results to the simulations, to achieve the maximum distance traveled.
 
 
-
-## [Back to Grad Projects](/grad_projects/)
+<br><br>
+[Return to top](/egr557_page/#table-of-contents)
