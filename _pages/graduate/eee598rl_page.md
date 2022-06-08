@@ -62,4 +62,4 @@ Timelapse of the UR5 arm performing reaching tasks, reward of +257.
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/EEE598RL/Team6_name_PC2.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <br><br>
-[Return to top](/mae598_page/#table-of-contents)
+[Return to top](/eee598rl_page/#table-of-contents)
