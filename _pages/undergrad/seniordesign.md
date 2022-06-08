@@ -1,6 +1,6 @@
 ---
 title: "Automated Pick and Place Device Design"
-layout: single
+layout: splash
 permalink: /seniordesign_page/
 author_profile: true
 toc: true
