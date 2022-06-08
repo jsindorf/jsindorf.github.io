@@ -1,6 +1,6 @@
 ---
 title: "Anatomy Inspired Animatronic Head"
-layout: single
+layout: splash
 permalink: /ame598_page/
 author_profile: true
 toc: true
@@ -21,6 +21,15 @@ intro:
    
 ---
 
+## Table of Contents
+- [About](/ame598_page/#about)<br>
+- [Keywords](/ame598_page/#keywords)  <br> 
+- [Description](/ame598_page/#description) <br>
+- [Facial Expressions](/ame598_page/#facial-expressions)  <br>
+- [Final Slideshow](/ame598_page/#final-slideshow) <br>
+- [Full Animatronic Head](/ame598_page/#full-animatronic-head) <br>
+- [Return to Grad Projects](/grad_projects/) 
+
 ## About
 Deriving from anatomical inspiration, this project creates a fully controllable animatronic head through an ESP32, stepper motors, and a Bluetooth connected PS3 controller. This project allows for individual control of both eyes, each end of the lips, and the neck in 3 dimensions. Through kinematic calculations, the PS3 controller can be mapped to control the neck through real time rotations of the controller.
 
@@ -36,4 +45,6 @@ To continue this project and expand the facial expressions, a neck was added to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9lzpiYa7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Full Animatronic Head
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKy2dadO6-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## [Back to Grad Projects](/grad_projects/)
+
+<br><br>
+[Return to top](/ame598_page/#table-of-contents)
