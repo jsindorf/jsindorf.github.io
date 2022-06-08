@@ -20,6 +20,12 @@ intro:
   - excerpt: "some info here"   
    
 ---
+## Table of Contents
+- [About](/undergrad_projects/skittle/#about)<br>
+- [Keywords](/undergrad_projects/skittle/#keywords)  <br> 
+- [Description](/undergrad_projects/skittle/#description) <br>
+- [Pictures](/undergrad_projects/skittle/#pictures)  <br>
+- [Return to Undergrad Projects](/undergrad_projects/)  
 
 ## About
 *Sort skittles by their respective color* was the only prompt and assistance this project started with. Through a Raspberry Pi, Python, Solidworks, a laser cutter, and a 3D printer, a final skittle sorting device was created. The final device was able to sort skittles with over 90% accuracy and performed at relatively fast speeds.
@@ -32,4 +38,4 @@ This project was my introduction to a real engineering design project. I had jus
 
 ## Pictures
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/skittlesorter/sorterpics.pdf" width="1000" height="1000" type='application/pdf'></object>
-## [Back to Undergrad Projects](/undergrad_projects/)
+
