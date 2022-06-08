@@ -20,7 +20,14 @@ intro:
   - excerpt: "some info here"   
    
 ---
-
+## Table of Contents
+- [About](/sure_page/#about)<br>
+- [Keywords](/sure_page/#keywords)  <br> 
+- [Description](/sure_page/#description) <br>
+- [Poster](/sure_page/#poster)  <br>
+- [Write Up](/sure_page/#write-up)  <br>
+- [Return to Undergrad Projects](/undergrad_projects/) 
+ 
 ## About
 Laser patterning cells allows for a high spatial and temporal resolution. With the practice of laser guidance, cells (e.g., epithelial) can be patterned accurately to observe their behavior under a defined microenvironment. Eventually, laser patterned cells can be added to 3D bio-printed materials. In order to achieve this, a micron accurate stage that moves in XYZ directions, changes speeds, and stores and returns to specific 3D spatial positions is needed. This research is concentrated on development and design of the Joystick controlled stage.
 
@@ -35,7 +42,7 @@ This project itself focused on the control in 3D of a laser micropatterning stag
 ## Poster
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/sureprogram/Sure Poster_Sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## Write-up
+## Write Up
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/sureprogram/SURE_paper_Sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-## [Back to Undergrad Projects](/undergrad_projects/)
+<br><br>
+[Return to top](/sure_page/#table-of-contents)
