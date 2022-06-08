@@ -26,7 +26,6 @@ intro:
 - [Keywords](/ame598_page/#keywords)  <br> 
 - [Description](/ame598_page/#description) <br>
 - [Facial Expressions](/ame598_page/#facial-expressions)  <br>
-- [Final Slideshow](/ame598_page/#final-slideshow) <br>
 - [Full Animatronic Head](/ame598_page/#full-animatronic-head) <br>
 - [Return to Grad Projects](/grad_projects/) 
 
