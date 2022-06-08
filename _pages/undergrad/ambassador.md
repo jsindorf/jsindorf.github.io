@@ -24,7 +24,7 @@ intro:
 - [About](/ambassador_page/#about)<br>
 - [Keywords](/ambassador_page/#keywords)  <br> 
 - [Description](/ambassador_page/#description) <br>
-- [Return to Undergrad Projects](/ambassador_projects/)  
+- [Return to Undergrad Projects](/undergrad_projects/)  
 
 
 ## About
