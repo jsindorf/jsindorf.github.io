@@ -34,13 +34,27 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 
 ## Education
 **Graduate (Fall 2020 - Present)**: <br>
- Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br>
+ Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br><br>
  Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br>
 
 
 **Undergraduate (Fall 2016 - Spring 2020)**: <br>
  University of Arizona, Bachelors of Biomedical Engineering, minor of Mechanical Engineering  <br>(GPA: 3.917)
 
+## Teaching Assistant Experience
+ Includes the title of the course and a brief description of activities<br><br>
+**EGR280: Engineering Statistics (Fall 2020)** <br> 
+Hosted open office hours and recorded supplemnetal review sessions for each exam. 
+<br><br>
+**EGR201: Use Inspired Design (Spring 2021)**<br>
+Drafted course material including lectures, homeworks, and reading guides. Assisted students with CAD drawings and 3D printing.  
+<br>
+**EGR202: Use Inspired Design II (Fall 2021)**<br>
+Aided in the overall course development and structure and graded assignments.
+<br><br>
+**EGR202: Use Inspired Design II (Spring 2022)**<br>
+Held weekly supplemental instruction sessions and created quiz questions. 
+<br><br>
 
 ## Resume
 <object data="{{ site.url }}{{ site.baseurl }}/resume_sindorf_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
