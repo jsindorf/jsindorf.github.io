@@ -5,6 +5,8 @@ main:
   - title: "Research"
     #url: https://jsindorf.github.io/_pages/research/research.html
     url: /research/ 
+  - title: "Teaching"
+    url: /teaching_exp/
   - title: "Grad Projects"
     url: /grad_projects/
   - title: "Undergrad Projects"
