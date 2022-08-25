@@ -115,7 +115,7 @@ author:
       #icon: "fas fa-fw fa-phone-square"
       #url: "https://jsindorf.github.io/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "linkedin.com/in/jacob-sindorf-5298b31a6"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
