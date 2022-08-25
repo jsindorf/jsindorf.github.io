@@ -20,7 +20,7 @@ header:
 ---
 ## Website Goal
 The goal of this website is to create an interactive and visual way to view parts of my academic and professional career. It highlights projects and skills I learned during my journey that may otherwise be left in the past, including things from course projects, internships, and previous jobs. This website is a living document that will be forever growing, just like me. <br><br>
-Click through the links provided at the top of the page to explore my graduate research as well as some graduate and undergraduate projects. 
+Click through the links provided at the top of the page to explore my graduate research, teaching experience and some graduate and undergraduate projects. 
 <br><br>
 My resume and CV can be found at the bottom of this page. 
 
@@ -41,19 +41,7 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 **Undergraduate (Fall 2016 - Spring 2020)**: <br>
  University of Arizona, Bachelors of Biomedical Engineering, minor of Mechanical Engineering  <br>(GPA: 3.917)
 
-## Teaching Assistant Experience
- Includes the title of the course and a brief description of activities<br><br>
-**EGR280: Engineering Statistics (Fall 2020)** <br> 
-Hosted open office hours and recorded supplemnetal review sessions for each exam. 
-<br><br>
-**EGR201: Use Inspired Design (Spring 2021)**<br>
-Drafted course material including lectures, homeworks, and reading guides. Assisted students with CAD drawings and 3D printing.  
-<br>
-**EGR202: Use Inspired Design II (Fall 2021)**<br>
-Aided in the overall course development and structure and graded assignments.
-<br><br>
-**EGR202: Use Inspired Design II (Spring 2022)**<br>
-Held weekly supplemental instruction sessions and created quiz questions. 
+
 <br><br>
 
 ## Resume
