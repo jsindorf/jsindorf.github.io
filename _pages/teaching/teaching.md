@@ -32,20 +32,20 @@ This page presents my current teaching experience both as a graduate teaching as
 
 
 ## Instructor
-**FSE100: Introduction to Engineering (Fall 2022)**
-In progress
+**FSE100: Introduction to Engineering (Fall 2022)**<br>
+In progress<br><br>
 
 ## Teaching Assistant (TA)
 **EGR304: Embedded Systems Design Project I (Fall 2022)**<br>
-In progress
+In progress<br><br>
 **EGR202: Use Inspired Design II (Spring 2022)**<br>
-Held weekly supplemental instruction sessions and created quiz questions.
+Held weekly supplemental instruction sessions and created quiz questions.<br><br>
 **EGR202: Use Inspired Design II (Fall 2021)**<br>
-Aided in the overall course development and structure and graded assignments.
+Aided in the overall course development and structure and graded assignments.<br><br>
 **EGR201: Use Inspired Design (Spring 2021)**<br>
-Drafted course material including lectures, homeworks, and reading guides. Assisted students with CAD drawings and 3D printing.
+Drafted course material including lectures, homeworks, and reading guides. Assisted students with CAD drawings and 3D printing.<br><br>
 **EGR280: Engineering Statistics (Fall 2020)** <br> 
-Hosted open office hours and recorded supplemnetal review sessions for each exam. 
+Hosted open office hours and recorded supplemnetal review sessions for each exam.<br><br> 
 <br><br>
   
 
@@ -54,4 +54,4 @@ Hosted open office hours and recorded supplemnetal review sessions for each exam
 
 
 
-[Return to top](/teaching_exp/#table-of-contents)
+[Return to top](/teach_exp/#table-of-contents)
