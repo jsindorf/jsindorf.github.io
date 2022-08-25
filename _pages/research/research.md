@@ -1,6 +1,6 @@
 ---
 title: "Graduate Research"
-layout: single
+layout: splash
 permalink: /research/
 author_profile: true
 toc: true
