@@ -25,7 +25,7 @@ intro:
 - [Keywords](/sure_page/#keywords)  <br> 
 - [Description](/sure_page/#description) <br>
 - [Poster](/sure_page/#poster)  <br>
-- [Button Position Demonstration](/sure_page/#button_position_demonstration) <br>
+- [Button Position Demonstration](/sure_page/#button-position-demonstration) <br>
 - [Write Up](/sure_page/#write-up)  <br>
 - [Return to Undergrad Projects](/undergrad_projects/) 
  
