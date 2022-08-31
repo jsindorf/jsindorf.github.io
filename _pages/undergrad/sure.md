@@ -42,6 +42,12 @@ This project itself focused on the control in 3D of a laser micropatterning stag
 ## Poster
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/sureprogram/Sure Poster_Sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+## Button Position Demonstration
+The following video shows an example of the position storage buttons on the controller. One position is saved, and a new position is found. The new position can then be saved to a different button. With two positions saved, both buttons can be toggled to return to both stored positions. Storing positions in laser cell micropatterning is an essential component in the controller design as there are two areas of interest. Those include an input where cells are fed through microfluidics, and the patterning structure, where cells are placed. The system has to be able to move between both positions as it would be difficult to find precise positions each time when multiple cells are required. In general, the laser is able to capture a cell from the inlet, then drop it into a mold or structure that contains material to bind the cell in place.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rrp32XyTWDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Write Up
 <object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/sureprogram/SURE_paper_Sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
 <br><br>
