@@ -35,7 +35,7 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 ## Education
 **Graduate (Fall 2020 - Present)**: <br>
  Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br><br>
- Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br><br>
+ Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br>
 
 *ITServe Alliance Stem Scholarship Recipient (2022)*<br><br>
 **Undergraduate (Fall 2016 - Spring 2020)**: <br>
