@@ -24,7 +24,7 @@ intro:
 ## Table of Contents
 - [About](/teach_exp/#about)<br>
 - [Instructor](/teach_exp/#instructor) ([FSE100 Page](/fse100/))  <br> 
-- [Teaching Assistant (TA)](/teach_exp/#teaching-assistant-(ta)) 
+- [Teaching Assistant (TA)](/teach_exp/#teaching-assistant) 
 
 
 ## About
@@ -35,7 +35,7 @@ This page presents my current teaching experience both as a graduate teaching as
 **FSE100: Introduction to Engineering (Fall 2022)**<br>
 Instructed 40 student Introduction to Engineering course and advised both a graduate and undergraduate teaching assistant. Delivered lectures covering the engineering design process, circuits, Arduino, TinkerCAD, Matlab, and design. Facilitated final student deign project covering the topic of 'Mission to Mars' by fostering creativty and safety. Assited students with Arduino code, circuits, build design, and tool usage. For more information check out the FSE100 page which includes videos of student's final projects, [FSE100 Page](/fse100/).  <br><br>
 
-## Teaching Assistant (TA)
+## Teaching Assistant
 **EGR304: Embedded Systems Design Project I (Fall 2022)**<br>
 Reviewed and debugged student circuit projects and PCB designs. Assisted students in microcontroller programming through PSoC creator and advised students with KiCAD and Cadence.<br><br>
 **EGR202: Use Inspired Design II (Spring 2022)**<br>
