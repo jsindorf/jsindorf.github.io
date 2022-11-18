@@ -33,7 +33,7 @@ This page presents my current teaching experience both as a graduate teaching as
 
 ## Instructor
 **FSE100: Introduction to Engineering (Fall 2022)**<br>
-Instructed 40 student Introduction to Engineering course and advised both a graduate and undergraduate teaching assistant. Delivered lectures covering the engineering design process, circuits, Arduino, TinkerCAD, Matlab, and design. Facilitated final student deign project covering the topic of 'Mission to Mars' by fostering creativty and safety. Assited students with Arduino code, circuits, build design, and tool usage. For more information check out the FSE100 page which includes videos of student's final projects.  <br><br>
+Instructed 40 student Introduction to Engineering course and advised both a graduate and undergraduate teaching assistant. Delivered lectures covering the engineering design process, circuits, Arduino, TinkerCAD, Matlab, and design. Facilitated final student deign project covering the topic of 'Mission to Mars' by fostering creativty and safety. Assited students with Arduino code, circuits, build design, and tool usage. For more information check out the FSE100 page which includes videos of student's final projects, [FSE100 Page](/fse100/).  <br><br>
 
 ## Teaching Assistant (TA)
 **EGR304: Embedded Systems Design Project I (Fall 2022)**<br>
