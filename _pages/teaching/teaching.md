@@ -45,7 +45,7 @@ Aided in the overall course development and structure and graded assignments. Co
 **EGR201: Use Inspired Design (Spring 2021)**<br>
 Drafted course material including lectures, homeworks, and reading guides. Assisted students with CAD drawings and 3D printing.<br><br>
 **EGR280: Engineering Statistics (Fall 2020)** <br> 
-Hosted open office hours and recorded supplemnetal review sessions for each exam.<br><br> 
+Hosted open office hours and recorded supplemnetal review sessions for each exam. <br><br> 
 <br><br>
   
 
