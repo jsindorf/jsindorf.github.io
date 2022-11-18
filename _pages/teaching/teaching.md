@@ -24,7 +24,7 @@ intro:
 ## Table of Contents
 - [About](/teach_exp/#about)<br>
 - [Instructor](/teach_exp/#instructor) ([FSE100 Page](/fse100/))  <br> 
-- [Teaching Assistant (TA)](/teach_exp/#teaching-assistant) 
+- [Teaching Assistant](/teach_exp/#teaching-assistant) 
 
 
 ## About
