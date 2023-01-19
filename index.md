@@ -50,4 +50,4 @@ Updated: Dec. 2022
 
 ## CV
 Updated: Jan. 2023
-
+<object data="{{ site.url }}{{ site.baseurl }}/CV_sindorf_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
