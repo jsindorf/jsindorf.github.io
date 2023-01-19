@@ -48,7 +48,7 @@ feature_row3:
     alt: "placeholder image 2"
     #title: "senior design"
     excerpt: 'UofA senior design was a cross-disciplinary yearlong engineering project that put us into teams of five to solve a problem issued by a sponsor. Through Roche Tissue Diagnostics, my team worked to design an automatic pick and place device, intended to be used on the factory floor. This would pick up small, quarter sized tracking buttons, and place them onto a roll of tape for easy distribution. As team lead, I handled and organized all team activities as well as all communication with the sponsor. On top of that, I also created all the Solidworks designs and parts that were delivered to the sponsor and drafted all written documents and presentations. Overall I took on the roles of team lead, project manager and head CAD designer and we were able to deliver the plans to create a pick and place device (full deployment of the device was cut short due to COVID). <br><br>
-    **Program**: University of Arizona: Engineering Senior Design (Fall 2019 - Spring 2020) <br>
+    **Program**: University of Arizona: Engineering Senior Design (Fall 2019 - Spring 2020)  <br>
     **Project Type**: Collaborative/Team <br>
     **Keywords**: Leadership, Solidworks, Project Management, Technical Writing/Presentations, Communication, Design <br><br>
     [Return to top](/undergrad_projects/#introduction)'
