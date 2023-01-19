@@ -45,6 +45,9 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 <br><br>
 
 ## Resume
+Updated: Dec. 2022
 <object data="{{ site.url }}{{ site.baseurl }}/resume_sindorf_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+## CV
+Updated: Jan. 2023
 
