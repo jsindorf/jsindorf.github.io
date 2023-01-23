@@ -29,7 +29,7 @@ Three projects serve as the basis for my current research. <br>
 - The second is a continuation of a graduate project on [Data Driven Dynamic Discovery of the PPGPermalink](/egr608_page/). More work has been done exploring other nonlinear systems and fine tuning the SINDy algorithm. 
 - Laslty, is the project [PBVI for Motion Artifact and Sensor System Energy Savings](/eee598lb_page/). future work will look applying a real sensor system to use as the basis for energy costs and optimal sensor choice. 
 ## Publications
-# Contributor<br>
+### Contributor<br>
 C. Grijalva, N. Toosizadeh, J.Sindorf, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <br> 
