@@ -34,6 +34,6 @@ C. Grijalva, N. Toosizadeh, J.Sindorf, Y.H. Chou, K. Laksari, “Dual-task perfo
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <br> 
 - Note: this relates to the [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/) project. 
-## Dissertation Document
+## Dissertation
 Expected graduation is May 2023. My Prospectus documents are available upon request. 
 
