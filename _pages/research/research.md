@@ -45,7 +45,7 @@ Presentation 2: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor S
 ## Undergraduate Research Interests
 My undergraduate research consisted of two main projects:<br> 
 [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/). My research lab work at UofA. <br>
-[Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/). My REU at Clemson. <br>
+[Laser Cell Micropatterning Controller](/sure_page/). My REU at Clemson (SURE program). <br>
 
 ## Publications
 ### Contributor<br>
