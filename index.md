@@ -25,17 +25,18 @@ Click through the links provided at the top of the page to explore my graduate r
 My resume and CV can be found at the bottom of this page. 
 
 ## About Me
-My name is Jacob Sindorf, and I am a current PhD Candidate in Systems Engineering at Arizona State University. A true Arizona native, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation (and perhaps beyond). Staying active through sports in high school kept me busy, but I always had a strong background in academia through AP courses and the guidance of many amazing teachers along the way. <br>
+My name is Jacob Sindorf, and I am a currently a postdoctoral fellow at the Shirley Ryan AbilityLab. A true Arizona native now in the windy city, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation. Staying active through sports in high school kept me busy, but I always had a strong background in academia through AP courses and the guidance of many amazing teachers along the way. <br>
 After high school I found myself yearning to move as far away from home as possible. Ambitious and determined, I landed a daunting 150 miles away, in Tucson, Arizona. The sunny skies and dusty roads of Tucson presented a major fork in my career: engineering or medical school. Confident, I already knew my decision and went straight down the middle of both of them with biomedical engineering. Four years pass, and the opportunity to further my education finally gave me a way to move even farther from home. This time a full 50 miles to be exact. <br>
-The final semester at UofA was cut short due to COVID, and my first year at ASU was almost entirely through a computer screen. Adversity, however, always provides a way to grow. I took the time to focus on becoming an independent scholar, an individual whose skill set makes them an irreplaceable member of any team. After a year hunched in front of a computer screen, I now walk the home stretch of my PhD with a Master’s degree in hand. With 2 out of 3 degrees completed and 0 out of 3 graduation ceremonies attended, I have to make the most out of my final chance to don the cap and gown. <br> <br>
+The final semester at UofA was cut short due to COVID, and my first year at ASU was almost entirely through a computer screen. Adversity, however, always provides a way to grow. I took the time to focus on becoming an independent scholar, an individual whose skill set makes them an irreplaceable member of any team. After a year hunched in front of a computer screen, I walked the home stretch of my PhD with a Master’s degree in hand. With 3 out of 3 degrees completed, I now spend my time adapting to the midwest cold. <br> <br>
 
 
 
 
 ## Education
-**Graduate (Fall 2020 - Present)**: <br>
+**Graduate (Fall 2020 - Spring 2023)**: <br>
  Arizona State University, PhD, Systems Engineering  <br>(GPA: 4.0) <br><br>
  Arizona State University, Masters in Passing, Systems Engineering <br>(August 2021) (GPA: 4.0) <br>
+ Dissertation: *Exploration of the Photoplethysmography Signal and its Application to Wearable Devices* <br>
 
 *ITServe Alliance Stem Scholarship Recipient (2022)*<br><br>
 **Undergraduate (Fall 2016 - Spring 2020)**: <br>
@@ -45,9 +46,9 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 <br><br>
 
 ## Resume
-Updated: Dec. 2022
+Updated: Dec. 2022 (Outdated!, new one in progress)
 <object data="{{ site.url }}{{ site.baseurl }}/resume_sindorf_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 ## CV
-Updated: Jan. 2023
+Updated: Jan. 2023 (Outdated!, new one in progress)
 <object data="{{ site.url }}{{ site.baseurl }}/CV_sindorf_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
