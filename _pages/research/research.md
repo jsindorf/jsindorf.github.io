@@ -20,13 +20,13 @@ intro:
   - excerpt: "some info here"   
    
 ---
-# Graduate Research
-## Dissertation
+## Graduate Research
+### Dissertation
 Title: *Exploration of the Photoplethysmography Signal and its Application to Wearable Devices* <br>
 Succesfully defended April 2023.<br>
 (Dissertation document and presentation upload pending)
 
-## Graduate Research Interests
+### Graduate Research Interests
 My graduate research interests revolved around wearable devices and robotics. Specifically, the use and dynamics behind the photoplethysmography (PPG). PPG is a simple optical sensor that measures changes in blood volume levels commonly used to interpret heart rate and blood oxygen saturation. Throughout my graduate degree I have focused on using embedded machine learning, dynamical discovery, and more to develop improved heart rate detection systems while also better understanding the bio-signal. <br> 
 
 Three projects serve as the basis for my graduate research. <br>
@@ -34,21 +34,21 @@ Three projects serve as the basis for my graduate research. <br>
 - The second is a continuation of a graduate project on [Data Driven Dynamic Discovery of the PPG](/egr608_page/). More work has been done exploring other nonlinear systems and fine tuning the SINDy algorithm. 
 - Laslty, is the project [PBVI for Motion Artifact and Sensor System Energy Savings](/eee598lb_page/). A practical application for the project is being researched. To do this, an end to end embedded activity detection system with machine learning was made. Also, two filters were created to reduce and limit the effect of motion artifact on PPG signals. 
 
-## Publications
+### Publications
 Multiple still in progress. 
-## Presentations
-### International conference of Secure Knowledge Management (SKM) 2023<br>
+### Presentations
+#### International conference of Secure Knowledge Management (SKM) 2023<br>
 Presentation 1: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
 Presentation 2: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems* 
 
-# Undergraduate Research
-## Undergraduate Research Interests
+## Undergraduate Research
+### Undergraduate Research Interests
 My undergraduate research consisted of two main projects:<br> 
 [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/). My research lab work at UofA. <br>
 [Laser Cell Micropatterning Controller](/sure_page/). My REU at Clemson (SURE program). <br>
 
-## Publications
-### Contributor<br>
+### Publications
+#### Contributor<br>
 C. Grijalva, N. Toosizadeh, J.Sindorf, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <br> 
