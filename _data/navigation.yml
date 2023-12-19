@@ -7,9 +7,7 @@ main:
     url: /research/ 
   - title: "Teaching"
     url: /teach_exp/
-  - title: "Grad Projects"
-    url: /grad_projects/
-  - title: "Undergrad Projects"
-    url: /undergrad_projects/
+  - title: "Past Projects"
+    url: /projects_home/
   # - title: "Sitemap"
   #   url: /sitemap/
