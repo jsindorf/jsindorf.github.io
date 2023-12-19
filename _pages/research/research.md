@@ -20,6 +20,9 @@ intro:
   - excerpt: "some info here"   
    
 ---
+## Dissertation
+Title: Exploration of the Photoplethysmography Signal and its Application to Wearable Devices <br>
+Succesfully defended April 2023.
 
 ## Research Interests
 My current research interests revolve around wearable devices and robotics. Specifically, the use and dynamics behind the photoplethysmography (PPG). PPG is a simple optical sensor that measures changes in blood volume levels commonly used to interpret heart rate and blood oxygen saturation. Throughout my degree I have focused on using embedded machine learning, dynamical discovery, and more to develop improved heart rate detection systems while also better understanding the bio-signal. <br> 
@@ -34,6 +37,5 @@ C. Grijalva, N. Toosizadeh, J.Sindorf, Y.H. Chou, K. Laksari, “Dual-task perfo
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <br> 
 - Note: this relates to the [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/) project. 
-## Dissertation
-Expected graduation is May 2023. Exxpected Defense is April 2023. My Prospectus documents are available upon request. 
+
 
