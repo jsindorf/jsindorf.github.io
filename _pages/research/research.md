@@ -38,7 +38,7 @@ Three projects serve as the basis for my graduate research. <br>
 ### Publications
 Multiple still in progress. 
 ### Presentations
-#### International conference of Secure Knowledge Management (SKM) 2023<br>
+**International conference of Secure Knowledge Management (SKM) 2023**<br>
 Presentation 1: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
 Presentation 2: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems* 
 
@@ -49,7 +49,7 @@ My undergraduate research consisted of two main projects:<br>
 [Laser Cell Micropatterning Controller](/sure_page/). My REU at Clemson (SURE program). <br>
 
 ### Publications
-#### Contributor<br>
+**Contributor**<br>
 C. Grijalva, N. Toosizadeh, J.Sindorf, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <br> 
