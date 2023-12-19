@@ -20,7 +20,8 @@ intro:
   - excerpt: "some info here"   
    
 ---
-## Graduate Research
+
+## <center> Graduate Research</center>
 ### Dissertation
 Title: *Exploration of the Photoplethysmography Signal and its Application to Wearable Devices* <br>
 Succesfully defended April 2023.<br>
@@ -41,7 +42,7 @@ Multiple still in progress.
 Presentation 1: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
 Presentation 2: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems* 
 
-## Undergraduate Research
+## <center> Undergraduate Research</center>
 ### Undergraduate Research Interests
 My undergraduate research consisted of two main projects:<br> 
 [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/). My research lab work at UofA. <br>
