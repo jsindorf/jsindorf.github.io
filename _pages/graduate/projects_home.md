@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
-  - image_path: /asu_photo1.JPG
+  - image_path: /uofa_photo2.JPG
     alt: "placeholder image 2"
     #title: "Anatomy Inspired Animatronic Head"
     excerpt: 'Contained are undergraduate course and research projects from my time at the University of Arizona.'
