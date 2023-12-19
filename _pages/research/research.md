@@ -39,8 +39,8 @@ Three projects serve as the basis for my graduate research. <br>
 Multiple still in progress. 
 ### Presentations
 International conference of Secure Knowledge Management (SKM) 2023<br>
-- Presentation 1: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
-- Presentation 2: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems*<br>
+- Presentation: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
+- Presentation: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems*<br>
 
 
 ## <center> Undergraduate Research</center>
@@ -56,4 +56,4 @@ doi:10.1111/jon.12845 <br>
 - Note: this relates to the [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/) project.
 ### Presentations
 Clemson SURE Program Poster Presentation (2018) <br>
-- Poster: Laser Cell Micropatterning: System Design and Construction<br>
+- Poster: *Laser Cell Micropatterning: System Design and Construction*<br>
