@@ -19,11 +19,11 @@ header:
 intro: 
   - excerpt: "This page presents links to my research. "
 feature_row0:
-  - image_path: /asu_photo1.JPG
+  - image_path: /sralab_photo3.jpg
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
     excerpt: 'Contained are postdoc research projects from my time at the Shirley Ryan AbilityLab.'
-    url: /grad_projects/
+    url: /research_postdoc_page/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row:
