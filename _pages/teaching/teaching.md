@@ -28,7 +28,7 @@ intro:
 
 
 ## About
-This page presents my current teaching experience both as a graduate teaching assistant (TA) and as an instructor. It includes the title of the course and a brief description of activities<br><br>
+This page presents my current teaching experience both as a graduate teaching assistant (TA) and as an instructor at Arizona State University (ASU). It includes the title of the course and a brief description of activities<br><br>
 
 
 ## Instructor
