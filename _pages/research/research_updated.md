@@ -31,7 +31,7 @@ feature_row:
     alt: "placeholder image 2"
     #title: "Embedded Deep Learning Heart Rate Estimation Device"
     excerpt: 'Contained are graduate research projects from my time at Arizona State University.'
-    url: /grad_projects/
+    url: /research_grad/
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row2:    
