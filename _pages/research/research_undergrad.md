@@ -33,7 +33,7 @@ My undergraduate research consisted of two main projects:<br>
 C. Grijalva, N. Toosizadeh, **J.Sindorf**, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 <be> 
-(Note: this relates to the [Statisitcal Analysis of Brain Regions to Identify MCI](/undergradlab/) project.)
+(Note: this relates to the [Statistical Analysis of Brain Regions to Identify MCI](/undergradlab/) project.)
 ### Presentations
 Clemson SURE Program Poster Presentation (2018) <br>
-- Poster: (*Laser Cell Micropatterning: System Design and Construction*)[/sure/]<br>
+- Poster: [*Laser Cell Micropatterning: System Design and Construction*](/sure_page/)<br>
