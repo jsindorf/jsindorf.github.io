@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Sindorf, PhD"
-  avatar           : "/jake.JPG"
+  avatar           : "/sindorf_headshot2.jpg"
   bio              : "Postdoctoral Fellow, Shirley Ryan AbilityLab (RTO)."
   location         : #"Somewhere"
   email            :
   links:
-    - label: "jsindorf@asu.edu"
+    - label: "jsindorf@sralab.org"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jsindorf@asu.edu"
+      url: "mailto:jsindorf@sralab.org"
     #- label: "623-251-1340"
       #icon: "fas fa-fw fa-phone-square"
       #url: "https://jsindorf.github.io/"
