@@ -1,7 +1,7 @@
 ---
 title: "Graduate Research (ASU)"
 layout: splash
-permalink: /research_grad/
+permalink: /research_grad_page/
 author_profile: true
 toc: true
 toc_sticky: true
