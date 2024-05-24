@@ -39,7 +39,7 @@ feature_row2:
     alt: "placeholder image 2"
     #title: "Anatomy Inspired Animatronic Head"
     excerpt: 'Contained are undergraduate research projects from my time at the University of Arizona.'
-    url: /undergrad_projects/
+    url: /research_undergrad/
     btn_label: "Explore"
     btn_class: "btn--primary"
 
