@@ -17,7 +17,7 @@ header:
 #excerpt: "Descriptions of my graduate research interests and relevant material."
 
 intro: 
-  - excerpt: "some info here"   
+  - excerpt: "none"   
    
 ---
 
