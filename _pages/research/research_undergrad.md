@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Research"
 layout: splash
-permalink: /research_undergrad/
+permalink: /research_undergrad_page/
 author_profile: true
 toc: true
 toc_sticky: true
