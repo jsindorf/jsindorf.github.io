@@ -22,5 +22,8 @@ intro:
 ---
 
 ## <center> Postdoc Research</center>
-### Coming soon
+### Description and Overview
 description in progress
+
+## Publications
+This work was also presented at SLEEP 2024 /sleepprez_24/
