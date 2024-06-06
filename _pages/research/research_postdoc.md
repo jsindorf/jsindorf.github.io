@@ -26,4 +26,6 @@ intro:
 description in progress
 
 ## Publications
-This work was also presented at SLEEP 2024 /sleepprez_24/
+**Jacob Sindorf**, Alison L Szabo, Megan K O’Brien, Aashna Sunderrajan, Kristen L Knutson, Phyllis C Zee, Lisa Wolfe, Vineet M Arora, Arun Jayaraman, Wireless wearable sensors can facilitate rapid detection of sleep apnea in hospitalized stroke patients, Sleep, 2024;, zsae123, https://doi.org/10.1093/sleep/zsae123
+
+This work was also presented at SLEEP 2024, [slides here!](/sleepprez_24/)
