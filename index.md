@@ -51,7 +51,6 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 C. Grijalva, N. Toosizadeh, **J.Sindorf**, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
 doi:10.1111/jon.12845 ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/jon.12845))
-
 <br><br>
 
 ## Resume-Outdated
