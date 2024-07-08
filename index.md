@@ -45,12 +45,12 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 
 ## Publications
 **Jacob Sindorf**, Alison L Szabo, Megan K O’Brien, Aashna Sunderrajan, Kristen L Knutson, Phyllis C Zee, Lisa Wolfe, Vineet M Arora, Arun Jayaraman, Wireless wearable sensors can facilitate rapid detection of sleep apnea in hospitalized stroke patients, Sleep, 2024;, zsae123, https://doi.org/10.1093/sleep/zsae123 ([link](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsae123/7685383?utm_source=authortollfreelink&utm_campaign=sleep&utm_medium=email&guestAccessKey=dae0e0b4-456f-499c-a7a3-670452f78aa9)) 
-<br>
+<br><br>
 **Sindorf, J. J.**, and Redkar, S. (April 15, 2024). "PBVI for Optimal Photoplethysmography Noise Filter Selection Using Human Activity Recognition Observations for Improved Heart Rate Estimation on Multi-Sensor Systems." ASME. J. Med. Devices. March 2024; 18(1): 011005. https://doi.org/10.1115/1.4065219 ([link](https://asmedigitalcollection.asme.org/medicaldevices/article/18/1/011005/1199052/PBVI-for-Optimal-Photoplethysmography-Noise-Filter))
-<br>
+<br><br>
 C. Grijalva, N. Toosizadeh, **J.Sindorf**, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
 MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
-doi:10.1111/jon.12845 ([link] (https://onlinelibrary.wiley.com/doi/full/10.1111/jon.12845))
+doi:10.1111/jon.12845 ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/jon.12845))
 
 <br><br>
 
