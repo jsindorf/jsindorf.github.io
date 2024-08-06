@@ -44,6 +44,8 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 <br><br>
 
 ## Publications
+Jiayi E Wang, **Jacob Sindorf**, Pin-Wei Chen, Jessica Wu, Adrian Gonzales, Megan K O’Brien, Aashna Sunderrajan, Kristen L Knutson, Phyllis C Zee, Lisa Wolfe, Vineet M Arora, Arun Jayaraman, Assessing Actigraphy Performance for Daytime Sleep Detection Following Stroke: Insights from Inpatient Monitoring in a Rehabilitation Hospital, SLEEP Advances, 2024;, zpae057, https://doi.org/10.1093/sleepadvances/zpae057 ([link](https://academic.oup.com/sleepadvances/advance-article/doi/10.1093/sleepadvances/zpae057/7724927?utm_source=authortollfreelink&utm_campaign=sleepadvances&utm_medium=email&guestAccessKey=68964fc8-9d0a-4032-bafa-869885022a43))
+<br><br>
 **Jacob Sindorf**, Alison L Szabo, Megan K O’Brien, Aashna Sunderrajan, Kristen L Knutson, Phyllis C Zee, Lisa Wolfe, Vineet M Arora, Arun Jayaraman, Wireless wearable sensors can facilitate rapid detection of sleep apnea in hospitalized stroke patients, Sleep, 2024;, zsae123, https://doi.org/10.1093/sleep/zsae123 ([link](https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsae123/7685383?utm_source=authortollfreelink&utm_campaign=sleep&utm_medium=email&guestAccessKey=dae0e0b4-456f-499c-a7a3-670452f78aa9)) 
 <br><br>
 **Sindorf, J. J.**, and Redkar, S. (April 15, 2024). "PBVI for Optimal Photoplethysmography Noise Filter Selection Using Human Activity Recognition Observations for Improved Heart Rate Estimation on Multi-Sensor Systems." ASME. J. Med. Devices. March 2024; 18(1): 011005. https://doi.org/10.1115/1.4065219 ([link](https://asmedigitalcollection.asme.org/medicaldevices/article/18/1/011005/1199052/PBVI-for-Optimal-Photoplethysmography-Noise-Filter))
@@ -53,10 +55,10 @@ MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neu
 doi:10.1111/jon.12845 ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/jon.12845))
 <br><br>
 
-## Resume-Outdated
-Updated: Dec. 2022 (Outdated!, new one in progress)
-<object data="{{ site.url }}{{ site.baseurl }}/resume_sindorf_2022.pdf" width="1000" height="1000" type='application/pdf'></object>
+## Resume
+(Outdated!, new one in progress)
 
-## CV-Outdated
-Updated: Jan. 2023 (Outdated!, new one in progress)
-<object data="{{ site.url }}{{ site.baseurl }}/CV_sindorf_2023.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+## CV
+(Outdated!, new one in progress)
+
