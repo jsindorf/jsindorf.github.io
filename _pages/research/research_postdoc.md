@@ -23,7 +23,7 @@ intro:
 
 ## <center> Postdoc Research</center>
 ### Description and Overview
-description in progress
+My work revolves around sleep. Particularly the use of wearable devices, machine learning, and sleep interventions to monitor or improve sleep in patients with stroke admitted to an inpatient rehabilitation facility. 
 
 ## Publications
 Jiayi E Wang, **Jacob Sindorf**, Pin-Wei Chen, Jessica Wu, Adrian Gonzales, Megan K O’Brien, Aashna Sunderrajan, Kristen L Knutson, Phyllis C Zee, Lisa Wolfe, Vineet M Arora, Arun Jayaraman, Assessing Actigraphy Performance for Daytime Sleep Detection Following Stroke: Insights from Inpatient Monitoring in a Rehabilitation Hospital, SLEEP Advances, 2024;, zpae057, https://doi.org/10.1093/sleepadvances/zpae057 ([link](https://academic.oup.com/sleepadvances/advance-article/doi/10.1093/sleepadvances/zpae057/7724927?utm_source=authortollfreelink&utm_campaign=sleepadvances&utm_medium=email&guestAccessKey=68964fc8-9d0a-4032-bafa-869885022a43))
