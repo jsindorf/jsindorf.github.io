@@ -35,5 +35,3 @@ Northwestern MRS Training day poster (coming soon, 8/16)
 <br><br>
 Improved Sleep Apnea Screening After Stroke Using Multimodal Wearable Sensors and Machine Learning (SLEEP 2024, Houston, TX.) [slides here!](/sleepprez_24/)
 
-## Intern Posters
-As a postdoc, I had the opportunity to mentor four summer interns so far on end-to-end summer research projects. Check out all of their hard work! [slides here!](/sralab_intern_posters/)
