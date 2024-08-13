@@ -26,7 +26,6 @@ intro:
 - [Description](/sure_page/#description) <br>
 - [Poster](/sure_page/#poster)  <br>
 - [Button Position Demonstration](/sure_page/#button-position-demonstration) <br>
-- [Write Up](/sure_page/#write-up)  <br>
 - [Return to Undergrad Projects](/undergrad_projects/) 
  
 ## About
@@ -49,7 +48,4 @@ The following video shows an example of the position storage buttons on the cont
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rrp32XyTWDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Write Up
-<object data="{{ site.url }}{{ site.baseurl }}/_pages/undergrad/sureprogram/SURE_paper_Sindorf.pdf" width="1000" height="1000" type='application/pdf'></object>
-<br><br>
 [Return to top](/sure_page/#table-of-contents)
