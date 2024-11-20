@@ -34,8 +34,8 @@ intro:
 
 
 ## About
-Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improves the reproducibility of an RL project revolving around real reaching tasks with a UR5 arm. Overall, two methods of RL were applied to the UR5: trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real time on the UR5 hardware, successfully training the UR5 arm to reach specific points in a 2D space optimally. <br><br> 
-For more in depth description and visualization refer to the [Final Presentation](/eee598rl_page/#final-presentation) and the [Project Write Up](/eee598rl_page/#project-write-up).
+Reinforcement Learning (RL) reduces the mathematical complexity of robotic tasks such as reaching by rewarding or penalizing a system through a series of training tasks. This project improved the reproducibility of an RL project revolving around real-reaching tasks with a UR5 arm. Overall, two RL methods were applied to the UR5: trust region policy optimization (TRPO) and proximal policy optimization (PPO). These then trained in real-time on the UR5 hardware, allowing for the UR5 arm to optimally reach for specific points in a 2D space. <br><br> 
+For more in-depth description and visualization refer to the [Final Presentation](/eee598rl_page/#final-presentation) and the [Project Write Up](/eee598rl_page/#project-write-up).
 ## Keywords
 Reinforcement Learning, Python, UR5, Ubuntu, Virtual Machine, Github, Docker
 
