@@ -29,7 +29,7 @@ intro:
 
 ## About
 Data-Driven techniques have become a staple part of research including dynamic discovery. This utilizes datasets, such as time series data, to create mathematical descriptions of the underlying dynamics. This project starts the foundation by applying these techniques to a photoplethysmogram (PPG) signal, specifically, the techniques of time linear system identification and sparse identification of nonlinear dynamics (SINDY).<br><br>
-This is an ongoing project and this course write-up serves as a simple background to future research.
+This work contributed to my dissertation. 
 
 ## Keywords
 Matlab, Time Series Signals, Data-Driven Discovery/SINDY, Linear Algebra
