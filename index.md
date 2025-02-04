@@ -68,10 +68,3 @@ Ramos B., Ram K., Siddiqui S., Martinez M., Sunderrajan A., **Sindorf J.**, Masa
 <br><br>
 
 
-## Resume
-(Outdated!, new one in progress)
-
-
-## CV
-(Outdated!, new one in progress)
-
