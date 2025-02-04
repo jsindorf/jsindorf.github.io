@@ -34,8 +34,5 @@ This work contributed to my dissertation.
 ## Keywords
 Matlab, Time Series Signals, Data-Driven Discovery/SINDY, Linear Algebra
 
-## Project Write-up
-<object data="{{ site.url }}{{ site.baseurl }}/_pages/graduate/egr608/EGR608_final.pdf" width="1000" height="1000" type='application/pdf'></object>
-
 <br><br>
 [Return to top](/egr608_page/#table-of-contents)
