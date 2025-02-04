@@ -30,10 +30,8 @@ My undergraduate research consisted of two main projects:<br>
 [Laser Cell Micropatterning Controller](/sure_page/). My REU at Clemson (SURE program). <br>
 
 ### Publications
-C. Grijalva, N. Toosizadeh, **J.Sindorf**, Y.H. Chou, K. Laksari, “Dual-task performance is associated with brain
-MRI Morphometry in individuals with mild cognitive impairment”, Journal of Neuroimaging, March, 2021.
-doi:10.1111/jon.12845 <br> 
+Grijalva C., Toosizadeh N., **Sindorf J.**, Chou Y. H., Laksari K. (2021). "Dual-task performance is associated with brain MRI morphometry in individuals with mild cognitive impairment." Journal of Neuroimaging. <br> 
 (Note: this relates to the [Statistical Analysis of Brain Regions to Identify MCI](/undergradlab/) project.)
 ### Presentations
-Clemson SURE Program Poster Presentation (2018) <br>
+**Sindorf J.**, and Gao Z. Laser Cell Micropatterning: System Design and Construction, Clemson Summer Undergraduate Research Experience (SURE) Program. Clemson, SC.  2018.  <br>
 - Poster: [*Laser Cell Micropatterning: System Design and Construction*](/sure_page/)<br>
