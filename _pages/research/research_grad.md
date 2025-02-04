@@ -37,8 +37,7 @@ Three projects serve as the basis for my graduate research. <br>
 ### Publications
 **Sindorf J.**, and Redkar S. (2024). "PBVI for optimal photoplethysmography noise filter selection using human activity recognition observations for improved heart rate estimation on multi-sensor systems." ASME Journal of Medical Devices. <br><br>
 ### Presentations 
-<br><br>
-International Conference of Secure Knowledge Management (SKM) 2023. [Find the slides here!](/skm_page/)<br>
+International Conference of Secure Knowledge Management (SKM) 2023. [Find the slides here!](/skm_page/)<br><br>
 **Sindorf J.**, and Redkar S. Embedded Machine Learning for Heart Rate Estimation with Arduino, International Conference on Secure Knowledge Management (SKM). Tempe, AZ. 2023. <br><br>
 **Sindorf J.**, and Redkar S. Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems, International Conference on Secure Knowledge Management (SKM). Tempe, AZ. 2023.
 
