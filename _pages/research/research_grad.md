@@ -25,7 +25,6 @@ intro:
 ### Dissertation
 Title: *Exploration of the Photoplethysmography Signal and its Application to Wearable Devices* <br>
 Successfully defended April 2023.<br>
-(An online pdf of the dissertation document can be found [here](https://keep.lib.asu.edu/system/files/c7/Sindorf_asu_0010E_22685.pdf))
 
 ### Graduate Research Interests
 My graduate research interests revolved around wearable devices and robotics. Specifically, the use and dynamics behind photoplethysmography (PPG). PPG is a simple optical sensor that measures changes in blood volume levels commonly used to interpret heart rate and blood oxygen saturation. Throughout my graduate degree, I have focused on using embedded machine learning, dynamic discovery, and more to develop improved heart rate detection systems. <br> 
@@ -36,9 +35,10 @@ Three projects serve as the basis for my graduate research. <br>
 - Laslty, was the project [PBVI for Motion Artifact and Sensor System Energy Savings](/eee598lb_page/). A practical application for the project used an end-to-end embedded activity detection system with machine learning. Additionally, two filters were created to reduce and limit the effects of motion artifacts on PPG signals. (see publication below)
 
 ### Publications
-**Sindorf, J. J.**, and Redkar, S. (April 15, 2024). "PBVI for Optimal Photoplethysmography Noise Filter Selection Using Human Activity Recognition Observations for Improved Heart Rate Estimation on Multi-Sensor Systems." ASME. J. Med. Devices. March 2024; 18(1): 011005. https://doi.org/10.1115/1.4065219 
+**Sindorf J.**, and Redkar S. (2024). "PBVI for optimal photoplethysmography noise filter selection using human activity recognition observations for improved heart rate estimation on multi-sensor systems." ASME Journal of Medical Devices. <br><br>
 ### Presentations
 International Conference of Secure Knowledge Management (SKM) 2023. [Find the slides here!](/skm_page/)<br>
-- Presentation: *Embedded Machine Learning for Heart Rate Estimation with Arduino* <br>
-- Presentation: *Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems*<br>
+**Sindorf J.**, and Redkar S. Embedded Machine Learning for Heart Rate Estimation with Arduino, International Conference on Secure Knowledge Management (SKM). Tempe, AZ. 2023. <br><br>
+**Sindorf J.**, and Redkar S. Day-to-day Heart Rate Estimation with PPG for Embedded Sensor Systems, International Conference on Secure Knowledge Management (SKM). Tempe, AZ. 2023.
+
 
