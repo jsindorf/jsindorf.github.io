@@ -25,9 +25,9 @@ Click through the links provided at the top of the page to explore my graduate r
 My resume and CV can be found at the bottom of this page. 
 
 ## About Me
-My name is Jacob Sindorf, and I am a currently a postdoctoral fellow at the Shirley Ryan AbilityLab. A true Arizona native now in the windy city, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation.<br>
+My name is Jacob Sindorf, and I am a currently a postdoctoral fellow at the Shirley Ryan AbilityLab and Northwestern (T32 recipient). A true Arizona native now in the windy city, I have lived my entire life in the Grand Canyon state, from my first steps until my dissertation.<br>
 After high school I found myself yearning to move as far away from home as possible. Ambitious and determined, I landed a daunting 150 miles away, in Tucson, Arizona. The sunny skies and dusty roads of Tucson presented a major fork in my career: engineering or medical school. Confident, I already knew my decision and went straight down the middle of both of them with biomedical engineering. Four years pass, and the opportunity to further my education finally gave me a way to move even farther from home. This time a full 50 miles to be exact. <br>
-The final semester at UofA was cut short due to COVID, and my first year at ASU was almost entirely through a computer screen. Adversity, however, always provides a way to grow. I took the time to focus on becoming an independent scholar, an individual whose skill set makes them an irreplaceable member of any team. After a year hunched in front of a computer screen, I walked the home stretch of my PhD with a Master’s degree in hand. With 3 out of 3 degrees completed, I now spend my time adapting to the Midwest cold. <br> <br>
+The final semester at UofA was cut short due to COVID, and my first year at ASU was almost entirely through a computer screen. Adversity, however, always provides a way to grow. I took the time to focus on becoming an independent scholar, an individual whose skill set makes them an irreplaceable member of any team. After a year hunched in front of a computer screen, I walked the home stretch of my PhD with a Master’s degree in hand. With 3 out of 3 degrees completed, and approaching the final months of my postdoc, I am currently looking for work. <br> <br>
 
 
 
@@ -54,17 +54,29 @@ Grijalva C., Toosizadeh N., **Sindorf J.**, Chou Y. H., Laksari K. (2021). "Dual
 doi:10.1111/jon.12845 ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/jon.12845))
 <br><br>
 
-### Under review
+## Publications in Progress
+**Sindorf J.**, Campagnini S., O’Brien M.K., Sunderrajan A., Knutson K.L., Zee P.C., Wolfe L., Arora V.M., Jayaraman A. (2025). “Sleep after stroke: Multimodal evaluation of sleep quality, sleep disruptions, and their relation to functional recovery during acute inpatient rehabilitation” Neurorehabilitation and Neural Repair. (Accepted).
+<br><br>
+
 Ramos B., Ram K., Siddiqui S., Martinez M., Sunderrajan A., **Sindorf J.**, Masangkay A., Rubel V., O’Brien M.K., Prokup S., Morris L.L., Knutson K.L., Mokhlesi B., Prabhakaran S., Wolfe L., Zee P., Jayaraman A., Arora V.M. “Adaptation and Implementation of the SIESTA Protocol to an Acute Stroke Rehabilitation Setting” (Under review).
 <br><br>
-**Sindorf J.**, Campagnini S., O’Brien M.K., Sunderrajan A., Knutson K.L., Zee P.C., Wolfe L., Arora V.M., Jayaraman A. “Sleep after stroke: Multimodal evaluation of sleep quality, sleep disruptions, and their relation to functional recovery during acute inpatient rehabilitation” (Under review).
+
+**Sindorf J.**, O’Brien M.K., Sunderrajan A., Arora V.M., Jayaraman A. “Using Wearable Sensors to Detect Sleep Stages after Stroke: Machine Learning Design and Challenges” (In submission).
 <br><br>
 
-### In preparation 
-
-**Sindorf J.**, O’Brien M.K., Sunderrajan A., Arora V.M., Jayaraman A. Using Wearable Sensors to Detect Sleep Stages after Stroke: Machine Learning Design and Challenges (In preparation).
-
-**Sindorf J.**, Ramos B., Masangkay A., Ram K., Sunderrajan A., O’Brien M.K., Knutson K.L., Wolfe L., Zee P.C., Arora V.M., Jayaraman A. “COVID-19 Policy Changes and the Effects on Sleep During Inpatient Stroke Rehabilitation” (In preparation).
+**Sindorf J.**, Ramos B., Masangkay A., Ram K., Sunderrajan A., O’Brien M.K., Knutson K.L., Wolfe L., Zee P.C., Arora V.M., Jayaraman A. “COVID-19 Policy Changes and the Effects on Sleep During Inpatient Stroke Rehabilitation” 
+(In submission).
 <br><br>
+
+Sunderrajan A., **Sindorf J.**, O’Brien M.K., , Knutson K.L., Zee P.C., Wolfe L., Jayaraman A., Arora V.M. “The Effectiveness of the SIESTA-rehab Intervention on inpatient sleep in patients with stroke” (in preparation)
+<br><br>
+
+**Sindorf J.**, Sunderrajan A., O’Brien M.K., , Knutson K.L., Zee P.C., Wolfe L., Arora V.M., Jayaraman A. “The Effectiveness of the SIESTA-rehab Intervention on functional recovery in patients with stroke” (in preparation)
+<br><br>
+
+Nataletti S., **Sindorf J.**, Okita S., Maronati R., McGuire M., Hoppe-Ludwig S., Banerjee A., Wacek A., Cave J., Looft J.M., Dearth C.L., Hendershot B.D., Jayaraman A. “Predicting prosthesis use and mobility needs in lower limb amputees: A machine learning approach using clinical and sensor data” (in preparation)
+<br><br>
+
+
 
 
