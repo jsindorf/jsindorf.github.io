@@ -44,7 +44,7 @@ The final semester at UofA was cut short due to COVID, and my first year at ASU 
 <br><br>
 
 ## Publications
-**Sindorf J.**, Campagnini S., O’Brien M.K., Sunderrajan A., Knutson K.L., Zee P.C., Wolfe L., Arora V.M., Jayaraman A. (2025). “Sleep Following a Stroke: Multimodal Evaluation of Sleep Health and Disruptions and Impact on Recovery During Acute Inpatient Rehabilitation” Neurorehabilitation and Neural Repair.
+**Sindorf J.**, Campagnini S., O’Brien M.K., Sunderrajan A., Knutson K.L., Zee P.C., Wolfe L., Arora V.M., Jayaraman A. (2025). “Sleep Following a Stroke: Multimodal Evaluation of Sleep Health and Disruptions and Impact on Recovery During Acute Inpatient Rehabilitation” Neurorehabilitation and Neural Repair. ([link] (https://journals.sagepub.com/doi/10.1177/15459683251335332))
 <br><br>
 Wang J. E., **Sindorf J.**, Chen P.-W., Wu J., Gonzales A., O’Brien M. K., Sunderrajan A., Knutson K. L., Zee P. C., Wolfe L., Arora V. M., Jayaraman A. (2024). "Assessing actigraphy performance for daytime sleep detection following stroke: Insights from inpatient monitoring in a rehabilitation hospital." SLEEP Advances. ([link](https://academic.oup.com/sleepadvances/advance-article/doi/10.1093/sleepadvances/zpae057/7724927?utm_source=authortollfreelink&utm_campaign=sleepadvances&utm_medium=email&guestAccessKey=68964fc8-9d0a-4032-bafa-869885022a43))
 <br><br>
